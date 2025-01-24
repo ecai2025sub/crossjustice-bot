@@ -1,1 +1,2 @@
 swi-prolog-nox
+default-jre
