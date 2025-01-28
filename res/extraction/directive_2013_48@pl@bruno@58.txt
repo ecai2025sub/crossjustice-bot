@@ -1,0 +1,30 @@
+FACTS
+
+proceeding_matter(bruno, preparatory_proceedings)
+
+FACTS_END
+
+TEST
+
+1. Preparatory proceedings streamline case management for efficient resolution.
+2. Clarification of legal issues occurs during preparatory proceedings.
+3. Parties exchange evidence during the preparatory stage.
+4. Key disputes are identified and narrowed in preparatory proceedings.
+5. Witness lists are submitted and reviewed in preparatory proceedings.
+6. Deadlines are set during the preparatory phase of litigation.
+7. Procedural rules are clarified in preparatory proceedings.
+8. Court schedules hearings after preparatory proceedings are complete.
+9. Settlement possibilities are explored during preparatory case management.
+10. Legal arguments are refined in the preparatory stage.
+11. Preliminary motions are resolved in preparatory proceedings.
+12. Evidence admissibility is reviewed during preparatory case discussions.
+13. Parties agree on timelines during the preparatory phase.
+14. Pretrial orders are issued after the preparatory proceedings.
+15. Disclosures are made during preparatory meetings with opposing counsel.
+16. Discovery disputes are addressed during preparatory proceedings.
+17. Court resources are allocated based on preparatory case assessments.
+18. Preparatory proceedings help streamline complex cases for trial readiness.
+19. Legal representatives discuss procedural matters in preparatory meetings.
+20. Settlement conferences often arise from preparatory discussions.
+
+TEST_END

@@ -1,0 +1,30 @@
+FACTS
+
+proceeding_matter(bruno, pre_trial)
+
+FACTS_END
+
+TEST
+
+1. The case has not advanced to the trial stage yet.
+2. The trial phase of the legal process has not commenced.
+3. The proceedings have not entered into the trial phase.
+4. The trial has not started in the legal proceedings.
+5. The legal case is yet to progress to the trial stage.
+6. The trial stage has not been initiated in the proceedings.
+7. The trial phase has not been reached in the legal process.
+8. The proceedings have not yet moved to the trial phase.
+9. The case remains in pre-trial stages.
+10. The trial portion of the legal proceeding is still pending.
+11. The legal process has not yet transitioned to the trial phase.
+12. The proceedings are still at a stage prior to the trial.
+13. The trial has not yet begun in the current legal process.
+14. The case has not yet reached the stage where a trial occurs.
+15. The legal dispute is still awaiting the trial phase.
+16. The trial phase of the proceedings has not yet begun.
+17. The trial stage has not yet been reached in the case.
+18. The legal proceedings have not advanced to the trial stage.
+19. The trial portion of the process has not commenced.
+20. The case proceedings have not yet progressed to the trial.
+
+TEST_END

@@ -1,0 +1,22 @@
+FACTS
+
+person_status(josephine, accused).
+person_document(josephine, charge).
+person_speaks(josephine, french).
+proceeding_language(josephine, italian).
+
+FACTS_END
+TEST
+
+1. Josephine, a French citizen, who only speaks french, was formally charged by the Italian authorities for having committed a serious crime. The proceeding is in Italt.
+2. Josephine, a French national who speaks only French, has been officially charged by Italian authorities for committing a grave offense. The legal proceedings are being conducted in Italian.
+3. In Italy, Josephine, a citizen of France who communicates exclusively in French, has been formally accused of a serious crime. The case is being handled in the Italian language.
+4. Josephine, a French-speaking individual from France, was charged by the Italian legal system with a significant criminal offense. The legal process is taking place in Italian.
+5. A French citizen named Josephine, fluent only in French, has been formally charged by Italian authorities with a major crime. The proceedings are being carried out in the Italian language.
+6. Josephine, a French national who knows only French, has been officially accused by the Italian judiciary of committing a severe crime. The trial is being conducted in Italian.
+7. In Italy, Josephine, a French citizen who speaks only French, has been charged with a serious offense by the authorities. The legal proceedings are taking place in the Italian language.
+8. Josephine, a native of France who is fluent only in French, has been formally accused of a major crime by Italian authorities. The proceedings are being conducted entirely in Italia.
+9. Italian authorities have formally charged Josephine, a French-speaking citizen of France, with a serious crime. The legal case is being handled in the Italian language.
+10. Josephine, a French citizen with no knowledge of languages other than French, has been officially charged by the Italian legal system for committing a serious offense. The court proceedings are being conducted in Italian.
+
+TEST_END

@@ -1,0 +1,27 @@
+FACTS
+
+person_status(bruno, detention)
+
+FACTS_END
+
+TEST
+
+1. An order for the person's detention has been issued for investigative purposes during the arraignment.
+2. At the arraignment, the individual has been detained for further investigation.
+3. The person is to be detained following an investigation order at the arraignment.
+4. For investigative reasons, the individual’s detention has been mandated at the arraignment.
+5. The court has ordered the detention of the person during the arraignment for investigation.
+6. During the arraignment, a decision was made to detain the person for investigative purposes.
+7. The individual is to be held in custody for investigation as ordered at the arraignment.
+8. At the arraignment, the court ordered the individual's detention to facilitate investigation.
+9. An investigation-related detention order has been made for the person at the arraignment.
+10. The person’s detention has been mandated at the arraignment for the sake of investigation.
+11. To allow further investigation, the individual has been detained as per the arraignment order.
+12. During the arraignment, the person was ordered to be detained for investigation.
+13. The arraignment resulted in an order for the person’s detention to enable investigation.
+14. An order was issued at the arraignment to detain the individual for investigative purposes.
+15. At the arraignment, the person was ordered to be held in custody for investigation.
+16. The court has mandated the detention of the individual during the arraignment for investigation.
+17. For the purpose of investigation, the
+
+TEST_END

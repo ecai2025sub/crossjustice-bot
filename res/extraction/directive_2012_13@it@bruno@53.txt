@@ -1,0 +1,29 @@
+FACTS
+
+lawyer_action(bruno, favour_person)
+
+FACTS_END
+
+TEST
+
+1. The lawyer has the authority to advocate for the individual during the proceedings.
+2. The attorney is permitted to represent the person positively during the trial.
+3. The legal representative is empowered to argue on behalf of the individual during the hearings.
+4. The lawyer is permitted to speak on the person's behalf throughout the proceedings.
+5. The attorney is authorized to present arguments supporting the individual during the session.
+6. The legal counsel is allowed to voice support for the person during the legal proceedings.
+7. The lawyer has the right to defend the person during the court proceedings.
+8. The attorney is sanctioned to speak in support of the individual during the hearings.
+9. The legal advisor is entitled to advocate for the person throughout the proceedings.
+10. The lawyer is cleared to speak on behalf of the individual during the legal process.
+11. The attorney is commissioned to support the person during the proceedings.
+12. The legal representative is entitled to argue in favor of the individual during the trial.
+13. The lawyer is empowered to defend the person during the judicial proceedings.
+14. The attorney is endorsed to represent the individual's interests during the session.
+15. The legal counsel is authorized to argue for the person during the court hearings.
+16. The lawyer has permission to speak positively on behalf of the person in the proceedings.
+17. The attorney is granted the right to support the individual throughout the hearings.
+18. The legal representative is licensed to argue for the person during the proceedings.
+19. The lawyer is
+
+TEST_END

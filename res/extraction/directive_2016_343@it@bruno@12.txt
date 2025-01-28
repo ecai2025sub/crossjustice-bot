@@ -1,0 +1,30 @@
+FACTS
+
+proceeding_matter(bruno, evidence_gathering_act)
+
+FACTS_END
+
+TEST
+
+1. The ongoing issue pertains to the collection of evidence.
+2. The current situation involves gathering evidence.
+3. This matter deals with the act of collecting evidence.
+4. Evidence collection is central to the matter at hand.
+5. The issue at hand involves the process of gathering evidence.
+6. The matter concerns the act of evidence collection.
+7. Evidence gathering plays a key role in the current issue.
+8. The situation involves an act of collecting evidence.
+9. The matter revolves around the collection of evidence.
+10. This issue is about gathering necessary evidence.
+11. Evidence collection is the focus of the proceeding matter.
+12. The matter is centered on the act of gathering evidence.
+13. The task at hand involves the collection of evidence.
+14. The proceeding involves an act of evidence collection.
+15. Evidence gathering is integral to the situation.
+16. The issue pertains to the act of collecting evidence.
+17. The matter involves the process of evidence gathering.
+18. The situation centers on the collection of evidence.
+19. Gathering evidence is crucial to the matter at hand.
+20. The proceeding relates to the act of gathering evidence.
+
+TEST_END

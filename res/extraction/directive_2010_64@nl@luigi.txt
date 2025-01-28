@@ -1,0 +1,27 @@
+FACTS
+
+proceeding_type(luigi, europeanArrestWarrant).
+person_status(luigi, accused).
+person_status(luigi, requested).
+person_status(luigi, deprived_of_liberty).
+person_document(luigi, europeanArrestWarrant).
+person_document(luigi, charge).
+proceeding_language(luigi, dutch).
+person_speaks(luigi, italian).
+person_request_submitted(luigi, essential_document).
+
+FACTS_END
+TEST
+
+1. Luigi is an Italian Citizen, who only speaks italian. The Italian Government issued an European Arrest Warrant for his capture. He was accused in Amsterdam, Netherlands. He was put in jail. He has been formally charged and presented with the documents in Dutch by the police. He has asked for the documents to be put in italian.
+2. Luigi, an Italian national who speaks only Italian, has had a European Arrest Warrant issued against him by the Italian government. He was accused in Amsterdam, Netherlands, and taken into custody. The authorities formally charged him and provided the documents in Dutch, but he has requested them to be translated into Italian.
+3. An Italian citizen named Luigi, speaking exclusively in Italian, was the subject of a European Arrest Warrant issued by his home government. He was accused in Amsterdam, Netherlands, and subsequently jailed. The police presented him with formal charges and documents in Dutch, but he has asked for an Italian translation.
+4. Luigi, a native of Italy who speaks only Italian, was arrested in Amsterdam, Netherlands, following a European Arrest Warrant issued by Italy. He was detained and provided with formal charges in Dutch. Luigi has requested that the documents be made available in his native language, Italian.
+5. The Italian government issued a European Arrest Warrant for Luigi, an Italian citizen who knows only Italian. He was captured in Amsterdam, Netherlands, and imprisoned. The police presented him with official documents in Dutch, which he has requested to be translated into Italian.
+6. Luigi, an Italian-speaking citizen of Italy, became the subject of a European Arrest Warrant issued by his government. He was accused in Amsterdam, Netherlands, and placed in jail. The authorities formally charged him and delivered documents in Dutch, prompting him to request an Italian version.
+7. An Italian national, Luigi, who speaks solely Italian, was arrested in Amsterdam, Netherlands, under a European Arrest Warrant issued by Italy. He was accused and presented with documents in Dutch, which he has requested be provided in Italian.
+8. Luigi, a citizen of Italy, who only speaks italian, was detained in Amsterdam, Netherlands, following the issuance of a European Arrest Warrant by the Italian authorities. He was accused and given official documents in Dutch, but he has asked for a translation into Italian.
+9. The Italian government issued a European Arrest Warrant for Luigi, an Italian national who speaks only Italian. Arrested in Amsterdam, Netherlands, he was taken into custody and formally charged. The police gave him documents in Dutch, which he has asked to be translated into Italian.
+10. Luigi, an Italian citizen with knowledge only of the Italian language, was arrested in Amsterdam, Netherlands, under a European Arrest Warrant issued by his country. He was jailed and given formal accusation in Dutch. Luigi has requested that the papers be translated into Italian.
+
+TEST_END

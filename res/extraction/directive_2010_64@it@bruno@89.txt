@@ -1,0 +1,26 @@
+FACTS
+
+person_document(bruno, decision_precautionary_measure)
+
+FACTS_END
+
+TEST
+
+1. The individual is linked to a document outlining a decision regarding a precautionary measure.
+2. The person is connected to a document that explains a decision on a precautionary measure.
+3. The individual is related to a document that details a decision concerning a precautionary measure.
+4. The person is involved with a document that describes a decision about a precautionary measure.
+5. The individual has ties to a document that specifies a decision on a precautionary measure.
+6. The person is affiliated with a document that contains a decision on a precautionary measure.
+7. The individual is associated with a document that presents a decision on a precautionary measure.
+8. The person is linked to a document that provides details on a decision about a precautionary measure.
+9. The individual is connected to a document that covers a decision on a precautionary measure.
+10. The person has an association with a document that reports a decision on a precautionary measure.
+11. The individual is related to a document that lays out a decision regarding a precautionary measure.
+12. The person is involved in a document that outlines a decision about a precautionary measure.
+13. The individual is tied to a document detailing a decision on a precautionary measure.
+14. The person is connected with a document that explains a decision concerning a precautionary measure.
+15. The individual is affiliated with a document that specifies a decision regarding a precautionary measure.
+16. The person is related to a document that presents a decision
+
+TEST_END

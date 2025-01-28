@@ -1,0 +1,30 @@
+FACTS
+
+authority_decision(bruno, essential_document)
+
+FACTS_END
+
+TEST
+
+1. The authority has declared all documents to be crucial.
+2. The authority has pronounced every document as necessary.
+3. The authority has mandated that each document is vital.
+4. The authority has determined that any document is indispensable.
+5. The authority has proclaimed that documents are essential.
+6. The authority has decided that every document holds importance.
+7. The authority has stated that all documents are required.
+8. The authority has affirmed the necessity of any document.
+9. The authority has announced that documents are of utmost importance.
+10. The authority has recognized each document as essential.
+11. The authority has insisted on the significance of any document.
+12. The authority has emphasized the essential nature of documents.
+13. The authority has labeled all documents as necessary.
+14. The authority has specified that every document is fundamental.
+15. The authority has concluded that any document is crucial.
+16. The authority has asserted that documents are imperative.
+17. The authority has ruled that every document is key.
+18. The authority has endorsed the necessity of all documents.
+19. The authority has confirmed the indispensable nature of any document.
+20. The authority has underscored the importance of every document.
+
+TEST_END

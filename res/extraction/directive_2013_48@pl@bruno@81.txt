@@ -1,0 +1,30 @@
+FACTS
+
+proceeding_matter(bruno, detention_on_remand)
+
+FACTS_END
+
+TEST
+
+1. The case pertains to pre-trial detention.
+2. The legal proceedings involve remand custody.
+3. The matter is related to holding a suspect in custody before trial.
+4. The issue revolves around detention before trial.
+5. The proceedings focus on keeping the accused in custody prior to trial.
+6. The legal case deals with holding someone on remand.
+7. The subject of the proceedings is pre-trial incarceration.
+8. The proceedings are about maintaining detention prior to the trial.
+9. The case examines the use of remand detention.
+10. The legal matter involves the suspect’s detention before the trial.
+11. The proceedings address the topic of pre-trial holding.
+12. The focus of the case is on remanding the accused in custody.
+13. The issue at hand concerns pre-trial custody.
+14. The court case is about holding someone in custody before their trial.
+15. The legal discussion involves detention before a court decision.
+16. The proceedings are centered on remand imprisonment.
+17. The legal focus is on custody during the pre-trial phase.
+18. The matter concerns the detention of the accused before the trial.
+19. The proceedings involve the concept of pre-trial detention.
+20. The legal proceedings are about the incarceration of the accused before trial.
+
+TEST_END

@@ -1,0 +1,28 @@
+FACTS
+
+person_document(bruno, decision_supplementing_charge)
+
+FACTS_END
+
+TEST
+
+1. The individual is linked to a document about a decision to add to the charge.
+2. The person is connected with a document regarding a decision to enhance the charge.
+3. The individual is involved with a document related to a decision to augment the charge.
+4. The person has ties to a document concerning a decision to boost the charge.
+5. The individual is affiliated with a document about making a decision to supplement the charge.
+6. The person is tied to a document regarding the decision to expand the charge.
+7. The individual is associated with paperwork concerning the decision to fortify the charge.
+8. The person is connected to documentation about a decision to complement the charge.
+9. The individual is involved in a document related to a decision to reinforce the charge.
+10. The person has an association with a document concerning the decision to increase the charge.
+11. The individual is linked with documents about a decision to modify the charge.
+12. The person is affiliated with paperwork regarding a decision to strengthen the charge.
+13. The individual is connected to a document that discusses a decision to add to the charge.
+14. The person is involved with documents concerning the decision to supplement the charge.
+15. The individual has ties to documentation about the decision to augment the charge.
+16. The person is linked to paperwork regarding the decision to enhance the charge.
+17. The individual is associated with a document that deals with a decision to expand the charge.
+18. The person has a connection to
+
+TEST_END

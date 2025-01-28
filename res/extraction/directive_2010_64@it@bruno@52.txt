@@ -1,0 +1,30 @@
+FACTS
+
+authority_decision(bruno, essential_document)
+
+FACTS_END
+
+TEST
+
+1. The authority has declared that every document is essential.
+2. Any document has been deemed essential by the authority.
+3. The authority considers all documents to be essential.
+4. All documents are regarded as essential by the authority.
+5. The authority has determined that each document is essential.
+6. Each document has been pronounced essential by the authority.
+7. The authority has ruled that any document is essential.
+8. Documents have been labeled as essential by the authority.
+9. The authority has issued a decree making every document essential.
+10. Every document is mandated as essential by the authority.
+11. The authority has established any document as essential.
+12. Any document is classified as essential by the authority.
+13. The authority has affirmed the essential nature of all documents.
+14. All documents have been officially deemed essential by the authority.
+15. The authority has mandated that each document is essential.
+16. Documents are considered essential by decree of the authority.
+17. Each document is officially essential according to the authority.
+18. The authority has endorsed the essential status of any document.
+19. The essential status of all documents has been confirmed by the authority.
+20. The authority has asserted that every document is essential.
+
+TEST_END

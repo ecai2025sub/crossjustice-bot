@@ -1,0 +1,30 @@
+FACTS
+
+proceeding_matter(bruno, pre_trial)
+
+FACTS_END
+
+TEST
+
+1. The events are taking place prior to the commencement of the trial.
+2. The proceedings are underway before the trial begins.
+3. The activities are occurring ahead of the trial's start.
+4. The proceedings are occurring before the trial starts.
+5. The actions are happening in advance of the trial's initiation.
+6. The proceedings are unfolding before the trial kicks off.
+7. The events are in motion prior to the trial starting.
+8. The proceedings are occurring before the trial has commenced.
+9. The activities are underway ahead of the trial's beginning.
+10. The proceedings are taking place before the trial's start.
+11. The events are happening before the trial gets underway.
+12. The proceedings are in progress prior to the start of the trial.
+13. The actions are occurring before the trial officially begins.
+14. The proceedings are happening ahead of the trial's initiation.
+15. The events are unfolding before the trial has begun.
+16. The activities are taking place in advance of the trial's start.
+17. The proceedings are occurring ahead of the trial's commencement.
+18. The proceedings are taking place before the trial is underway.
+19. The events are progressing prior to the start of the trial.
+20. The proceedings are unfolding ahead of the trial's beginning.
+
+TEST_END

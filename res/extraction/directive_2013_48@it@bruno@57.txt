@@ -1,0 +1,30 @@
+FACTS
+
+proceeding_matter(bruno, questioning)
+
+FACTS_END
+
+TEST
+
+1. The defendant has undergone questioning.
+2. The defendant has been interrogated.
+3. The defendant was questioned.
+4. Questioning has been conducted with the defendant.
+5. The defendant has faced questioning.
+6. The defendant has experienced questioning.
+7. The defendant has been asked questions.
+8. The defendant has participated in questioning.
+9. The defendant has been involved in questioning.
+10. The defendant has been examined through questioning.
+11. Questioning has been directed at the defendant.
+12. The defendant has been subject to an inquiry.
+13. The defendant has been interviewed.
+14. The defendant has been put through questioning.
+15. The defendant has been subjected to an interrogation.
+16. The defendant has answered questions.
+17. The defendant has been queried.
+18. The defendant has gone through questioning.
+19. The defendant has been part of questioning sessions.
+20. The defendant has encountered questioning.
+
+TEST_END

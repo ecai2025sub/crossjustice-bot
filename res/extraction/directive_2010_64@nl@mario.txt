@@ -1,0 +1,22 @@
+FACTS
+
+person_status(mario, suspect).
+proceeding_language(mario, dutch).
+proceeding_matter(mario, questioning).
+person_speaks(mario, italian).
+
+FACTS_END
+TEST
+
+1. Mario, an Italian Citizen, who only speaks italian, while on holiday in the Netherlands, has been stopped by the police for questioning. He is the main suspect of a car theft. The proceeding is in Dutch.
+2. Mario, an Italian citizen fluent only in Italian, was stopped by the police in the Netherlands during his vacation. He is the primary suspect in a car theft case. The proceedings are being conducted in Dutch.
+3. While on holiday in the Netherlands, Mario, an Italian national who speaks only Italian, was detained by the police for questioning. He is considered the main suspect in a vehicle theft investigation. The case is being handled in Dutch.
+4. Mario, an Italian-speaking tourist from Italy, was questioned by the Dutch police while vacationing in the Netherlands. He is the chief suspect in a car theft case. The legal process is being carried out in Dutch.
+5. In the Netherlands, Mario, an Italian citizen who communicates exclusively in Italian, was stopped by the authorities for questioning during his holiday. He is suspected of being involved in a car theft. The proceedings are in Dutch.
+6. Mario, a native of Italy who speaks only Italian, was vacationing in the Netherlands when he was questioned by the police. He is the primary suspect in a case involving the theft of a car, with the proceedings taking place in Dutch.
+7. While visiting the Netherlands, Mario, an Italian citizen fluent solely in Italian, was detained by the police for questioning. He is the key suspect in a car theft case. The investigation and proceedings are being conducted in Dutch.
+8. Mario, an Italian-speaking traveler from Italy, was stopped by police in the Netherlands while on holiday. He has been identified as the main suspect in a car theft. The case is proceeding in Dutch.
+9. During his vacation in the Netherlands, Mario, an Italian citizen who knows only Italian, was questioned by the police. He is accused of being the primary suspect in a vehicle theft. The legal process is conducted in Dutch.
+10. Mario, a citizen of Italy who speaks only Italian, was vacationing in the Netherlands when the police stopped him for questioning. He is under suspicion as the main perpetrator of a car theft. The proceedings are currently taking place in Dutch.
+
+TEST_END

@@ -1,0 +1,26 @@
+FACTS
+
+person_event(bruno, geographical_remoteness)
+
+FACTS_END
+
+TEST
+
+1. The individual's distant location makes it impossible to guarantee the lawyer's timely arrival.
+2. Due to the person's geographical isolation, ensuring the lawyer's prompt presence is not feasible.
+3. The remote location of the individual prevents any assurance of the lawyer's immediate attendance.
+4. Because of the person's geographical remoteness, eliminating delays in the lawyer's presence is impossible.
+5. The person's distant geography makes it challenging to ensure the lawyer arrives without delay.
+6. The individual's remote position makes it impractical to promise the lawyer's undelayed presence.
+7. Ensuring the lawyer's presence without delay is impossible due to the person's geographical distance.
+8. The geographical isolation of the person makes timely presence of the lawyer unattainable.
+9. It is not possible to ensure the lawyer's prompt presence due to the individual's remote geography.
+10. The remoteness of the person's location precludes any assurance of the lawyer's immediate arrival.
+11. Because of the individual's distant geography, guaranteeing the lawyer's timely presence is impossible.
+12. The person's isolated location makes it impossible to ensure no delay in the lawyer's presence.
+13. Ensuring the lawyer's arrival without delay is impractical due to the person's geographical remoteness.
+14. The geographical distance of the person makes it impossible to guarantee the lawyer's prompt presence.
+15. Due to the individual's remoteness, it is impossible to ensure the lawyer arrives on time.
+16. The distant location of the individual means the lawyer
+
+TEST_END

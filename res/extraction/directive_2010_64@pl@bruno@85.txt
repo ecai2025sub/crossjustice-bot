@@ -1,0 +1,30 @@
+FACTS
+
+person_status(bruno, informed_about_charge)
+
+FACTS_END
+
+TEST
+
+1. The individual has been notified of the accusation.
+2. The person has received information regarding the charge.
+3. The individual has been made aware of the allegation.
+4. The person has been apprised of the charge against them.
+5. The individual has been advised about the accusation.
+6. The person is informed about the charge they are facing.
+7. The individual has been briefed on the charge.
+8. The person has been told about the accusation against them.
+9. The individual has been updated on the charge.
+10. The person has been made cognizant of the allegation.
+11. The individual has been enlightened about the charge.
+12. The person has been clued in on the accusation.
+13. The individual has been kept informed about the charge.
+14. The person is aware of the charge against them.
+15. The individual has been disclosed the details of the allegation.
+16. The person has been acquainted with the charge.
+17. The individual has been informed of the charge they face.
+18. The person has been educated about the accusation.
+19. The individual has been notified about the charge they are accused of.
+20. The person has been briefed about the allegation against them.
+
+TEST_END

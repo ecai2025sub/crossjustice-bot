@@ -1,0 +1,30 @@
+FACTS
+
+person_danger(bruno, proper_conduct_proceedings)
+
+FACTS_END
+
+TEST
+
+1. The individual threatens the orderly progression of the proceedings.
+2. The person jeopardizes the proper execution of the proceedings.
+3. The individual endangers the smooth conduct of the proceedings.
+4. The person risks disrupting the proper flow of the proceedings.
+5. The individual poses a threat to the orderly conduct of the proceedings.
+6. The person is a risk to maintaining the proper proceedings.
+7. The individual's presence may hinder the orderly conduct of the proceedings.
+8. The person poses a risk to the proceedings' proper conduct.
+9. The individual could compromise the integrity of the proceedings.
+10. The person endangers the efficient management of the proceedings.
+11. The individual poses a threat to the structured conduct of the proceedings.
+12. The person presents a danger to the proceedings' orderly conduct.
+13. The individual may disrupt the proper proceedings.
+14. The person poses a threat to the proceedings running smoothly.
+15. The individual's actions could impair the proper proceedings.
+16. The person is a danger to the proceedings being conducted properly.
+17. The individual risks compromising the orderly conduct of the proceedings.
+18. The person threatens the integrity of the proceedings' conduct.
+19. The individual's presence poses a danger to the proceedings' order.
+20. The person is a threat to the proper management of the proceedings.
+
+TEST_END

@@ -1,0 +1,28 @@
+FACTS
+
+familiarise_with_evidence_content(bruno, translation)
+
+FACTS_END
+
+TEST
+
+1. The individual must become acquainted with the evidence through a translation, as they are not currently aware of it.
+2. The person should understand the evidence via a translation since it's unfamiliar to them.
+3. The individual needs to gain awareness of the evidence by having it translated.
+4. The person requires a translation to comprehend the evidence, as they are not familiar with it.
+5. The individual must use a translation to familiarize themselves with the evidence they don't know.
+6. The person needs a translation to understand the evidence, as they are unaware of it.
+7. The individual should access the evidence through translation because they lack prior knowledge of it.
+8. The person needs to learn about the evidence through a translation, as they are not informed.
+9. The individual must rely on a translation to grasp the evidence they aren't aware of.
+10. The person requires an interpretation to become knowledgeable about the evidence.
+11. The individual needs a translated version of the evidence to become aware of it.
+12. The person should familiarize themselves with the evidence through a translation to gain awareness.
+13. The individual has to use a translation to understand the evidence they are unfamiliar with.
+14. The person needs to translate the evidence to become aware of its content.
+15. The individual needs translation assistance to become familiar with the evidence.
+16. The person must rely on translation to gain insight into the evidence they don't know.
+17. The individual requires a translation to acquaint themselves with the unknown evidence.
+18.
+
+TEST_END

@@ -1,0 +1,30 @@
+FACTS
+
+person_document(bruno, document_deprives_liberty)
+
+FACTS_END
+
+TEST
+
+1. The issued document is one that restricts freedom.
+2. This document, once issued, limits personal liberty.
+3. The document in question is any that curtails freedom.
+4. Any document released that confines liberty.
+5. The document provided serves to reduce freedom.
+6. This document, when issued, hinders individual liberty.
+7. The document is any that imposes a restriction on freedom.
+8. Any document that limits liberty, once issued.
+9. The issued paperwork is one that restricts freedom.
+10. This document, upon issuance, curtails liberty.
+11. Any document that, when issued, deprives one of freedom.
+12. The document acts to constrain liberty once issued.
+13. This document effectively restricts personal freedom.
+14. The document, by being issued, results in a loss of liberty.
+15. Any documentation that serves to limit freedom when given.
+16. The paper issued is one that diminishes liberty.
+17. The document, upon being issued, limits personal freedom.
+18. Once issued, this document curbs individual liberty.
+19. The document, when released, restricts freedom.
+20. Any document that, upon being issued, constrains liberty.
+
+TEST_END

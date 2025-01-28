@@ -1,0 +1,30 @@
+FACTS
+
+proceeding_matter(bruno, investigation)
+
+FACTS_END
+
+TEST
+
+1. The upcoming issue requires examination.
+2. The current situation calls for an investigation.
+3. The matter at hand involves inquiry.
+4. The following subject demands scrutiny.
+5. The situation in question necessitates an investigation.
+6. The matter under consideration involves analysis.
+7. The issue ahead requires thorough investigation.
+8. The topic at hand involves investigative work.
+9. The subsequent matter calls for a detailed investigation.
+10. The ongoing case demands investigative attention.
+11. The proceeding issue involves a probe.
+12. The current matter requires investigative action.
+13. The upcoming situation involves a detailed inquiry.
+14. The case in question necessitates examination.
+15. The matter presently involves an investigation.
+16. The following issue demands an investigative approach.
+17. The topic requires thorough scrutiny.
+18. The current subject involves a detailed investigation.
+19. The matter under discussion calls for analysis.
+20. The proceeding topic necessitates an inquiry.
+
+TEST_END

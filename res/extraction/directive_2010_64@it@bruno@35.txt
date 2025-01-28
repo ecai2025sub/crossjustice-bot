@@ -1,0 +1,30 @@
+FACTS
+
+person_understands(bruno, italian)
+
+FACTS_END
+
+TEST
+
+1. The individual can read and comprehend italian.
+2. The individual is capable of reading and understanding italian.
+3. The person is able to read and grasp italian.
+4. The person possesses the ability to read and understand italian.
+5. The individual reads and interprets italian.
+6. The person has the skill to read and comprehend italian.
+7. The individual can interpret and read italian.
+8. The person is proficient in reading and understanding italian.
+9. The person has an understanding and reading ability in italian.
+10. The individual comprehends and reads italian.
+11. The person is adept at reading and comprehending italian.
+12. The individual possesses reading and comprehension skills in italian.
+13. The person is skilled in understanding and reading italian.
+14. The person has the capability to comprehend and read italian.
+15. The individual has the proficiency to read and understand italian.
+16. The person reads italian with understanding.
+17. The individual is able to comprehend and read italian.
+18. The person has the ability to understand and read italian.
+19. The person comprehends italian through reading.
+20. The individual understands italian by reading it.
+
+TEST_END

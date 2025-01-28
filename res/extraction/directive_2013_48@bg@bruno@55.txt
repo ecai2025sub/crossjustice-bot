@@ -1,0 +1,30 @@
+FACTS
+
+proceeding_matter(bruno, arrest)
+
+FACTS_END
+
+TEST
+
+1. The individual was arrested.
+2. These proceedings are related to an arrest.
+3. The matter pertains to an arrest.
+4. An arrest is at the center of these proceedings.
+5. The focus of the proceedings is an arrest.
+6. These proceedings deal with an arrest.
+7. An arrest is the subject of the proceedings.
+8. The arrest is the main topic of the proceedings.
+9. These proceedings revolve around an arrest.
+10. The legal matter is about an arrest.
+11. The arrest is under discussion in these proceedings.
+12. The proceedings address the issue of an arrest.
+13. An arrest is the core issue in these proceedings.
+14. These proceedings are about an arrest.
+15. The proceedings highlight an arrest.
+16. An arrest is involved in these proceedings.
+17. The subject matter of the proceedings involves an arrest.
+18. The proceedings pertain to the issue of an arrest.
+19. An arrest is the focal point of the proceedings.
+20. These proceedings encompass an arrest.
+
+TEST_END

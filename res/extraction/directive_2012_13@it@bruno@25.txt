@@ -1,0 +1,30 @@
+FACTS
+
+person_document(bruno, new_evidence)
+
+FACTS_END
+
+TEST
+
+1. The issued document presents fresh evidence for the case.
+2. The document released brings new proof to the case.
+3. New evidence is provided to the case by the issued document.
+4. The document supplied introduces new evidence for the case.
+5. The document offers new evidence to the case.
+6. New proof is presented in the case through the document issued.
+7. The document provides the case with new evidence.
+8. The case receives new evidence from the document issued.
+9. The document delivers new evidence to the case.
+10. New evidence for the case is provided by the issued document.
+11. The document issued contributes new evidence to the case.
+12. The document brings new evidence to light for the case.
+13. The issued document supplies new evidence for the case.
+14. New evidence is introduced to the case via the document issued.
+15. The document makes new evidence available to the case.
+16. The case benefits from new evidence provided by the issued document.
+17. The document issued unveils new evidence for the case.
+18. New evidence is offered to the case by the document issued.
+19. The document provides fresh insights into the case.
+20. The document released contributes additional evidence to the case.
+
+TEST_END

@@ -1,0 +1,30 @@
+FACTS
+
+person_document(bruno, indictment)
+
+FACTS_END
+
+TEST
+
+1. The individual is linked to a document detailing an indictment.
+2. The person is connected with a paper that outlines an indictment.
+3. The individual is involved with a document that specifies an indictment.
+4. The person is related to a document that describes an indictment.
+5. The individual is tied to a document presenting an indictment.
+6. The person is associated with paperwork identifying an indictment.
+7. The individual is affiliated with a document that lays out an indictment.
+8. The person is connected to a record detailing an indictment.
+9. The individual is involved in a document that defines an indictment.
+10. The person is linked with a file specifying an indictment.
+11. The individual is associated with a report that presents an indictment.
+12. The person is related to documentation that specifies an indictment.
+13. The individual is tied to a paper detailing an indictment.
+14. The person is connected with a document that delineates an indictment.
+15. The individual is affiliated with paperwork outlining an indictment.
+16. The person is involved with a record specifying an indictment.
+17. The individual is linked to a document that describes an indictment.
+18. The person is associated with a file detailing an indictment.
+19. The individual is connected with documentation describing an indictment.
+20. The person is related to a document that identifies an indictment.
+
+TEST_END

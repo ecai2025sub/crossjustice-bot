@@ -1,0 +1,29 @@
+FACTS
+
+person_status(bruno, deprived_of_liberty)
+
+FACTS_END
+
+TEST
+
+1. The individual has been stripped of their freedom due to arrest or detention.
+2. Liberty has been taken from the person through detention or arrest.
+3. Through arrest or detention, the person has lost their freedom.
+4. The individual is experiencing a loss of liberty as a result of being detained or arrested.
+5. Detention or arrest has resulted in the deprivation of the person's liberty.
+6. The person’s freedom has been curtailed by means of arrest or detention.
+7. Arrest or detention has led to the person being deprived of liberty.
+8. The individual’s liberty has been restricted by arrest or detention.
+9. Through detention or arrest, the person has been deprived of their liberty.
+10. As a result of arrest or detention, the person has been stripped of their freedom.
+11. The person has lost their liberty due to being arrested or detained.
+12. Detention or arrest has caused the individual to be deprived of their freedom.
+13. The individual's freedom has been taken away through arrest or detention.
+14. The person has been denied liberty as a consequence of detention or arrest.
+15. Due to arrest or detention, the individual’s liberty has been taken away.
+16. The person is experiencing deprivation of freedom due to being detained or arrested.
+17. Being detained or arrested has led to the deprivation of the person's liberty.
+18. Liberty has been denied to the person through the act of arrest or detention.
+19. The individual has been denied their freedom by means of
+
+TEST_END

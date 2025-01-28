@@ -1,0 +1,30 @@
+FACTS
+
+person_document(bruno, conviction)
+
+FACTS_END
+
+TEST
+
+1. The individual is linked to a paper showing a conviction.
+2. There is a document connecting the person to a conviction.
+3. The person has ties to a record that indicates a conviction.
+4. A document associates the individual with a conviction.
+5. The person is mentioned in a document that points to a conviction.
+6. The individual is referenced in a file that signifies a conviction.
+7. There is a file that links the person to a conviction.
+8. A document implicates the person in a conviction.
+9. The person is connected to documentation of a conviction.
+10. The individual is involved with a document that evidences a conviction.
+11. The person is named in a document that relates to a conviction.
+12. A record associates the individual with a conviction.
+13. There exists a document that ties the person to a conviction.
+14. The person is recorded in a document indicating a conviction.
+15. The individual is bound to a document that reveals a conviction.
+16. A document identifies the person with a conviction.
+17. The person is documented in connection with a conviction.
+18. The individual has an association with a conviction document.
+19. A document establishes the person’s link to a conviction.
+20. The person is documented as having a conviction.
+
+TEST_END

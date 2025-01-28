@@ -1,0 +1,30 @@
+FACTS
+
+person_event(bruno, waive_right)
+
+FACTS_END
+
+TEST
+
+1. The individual has relinquished his right to a defense.
+2. He has forsaken his rights to defend himself.
+3. The person has given up his defense rights.
+4. His defense rights have been waived by him.
+5. The individual has opted to waive his defense rights.
+6. He has chosen to forgo his rights to a defense.
+7. The person has surrendered his right to defend himself.
+8. His rights to mount a defense have been waived.
+9. He has decided to relinquish his defense rights.
+10. The individual has opted out of his defense rights.
+11. He has abandoned his rights to a defense.
+12. The person has forsworn his right to defend himself.
+13. His defense rights have been voluntarily waived.
+14. He has renounced his rights to a defense.
+15. The individual has decided against exercising his defense rights.
+16. He has opted to give up his right to a defense.
+17. The person has forgoed his defense rights.
+18. His rights to a defense have been consciously waived.
+19. He has chosen to renounce his defense rights.
+20. The individual has voluntarily abandoned his right to a defense.
+
+TEST_END

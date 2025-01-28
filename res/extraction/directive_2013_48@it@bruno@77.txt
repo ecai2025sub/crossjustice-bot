@@ -1,0 +1,30 @@
+FACTS
+
+proceeding_matter(bruno, investigative_questioning)
+
+FACTS_END
+
+TEST
+
+1. Investigative questioning will be carried out by police officials.
+2. Police officials are set to perform investigative questioning.
+3. Investigative questioning is to be conducted by police officials.
+4. The police will engage in investigative questioning.
+5. Police officers will undertake investigative questioning.
+6. Investigative questioning will be executed by police officials.
+7. The authorities will proceed with investigative questioning.
+8. Police personnel will carry out investigative questioning.
+9. Officers will perform investigative questioning.
+10. The police are scheduled to conduct investigative questioning.
+11. Police officials plan to engage in investigative questioning.
+12. Police will carry out questioning for investigative purposes.
+13. Investigative questioning will be handled by police officers.
+14. The officials will conduct questioning for investigation.
+15. Police officials will lead the investigative questioning process.
+16. Police officers will engage in questioning as part of the investigation.
+17. The police force will be involved in investigative questioning.
+18. Investigative questioning will be administered by police officials.
+19. Police officials will be responsible for conducting investigative questioning.
+20. The police department will oversee investigative questioning.
+
+TEST_END

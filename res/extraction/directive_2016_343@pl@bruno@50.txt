@@ -1,0 +1,25 @@
+FACTS
+
+proceeding_matter(bruno, external_examination_body)
+
+FACTS_END
+
+TEST
+
+1. The matter at hand includes an external inspection of the body and additional tests that do not violate his bodily integrity.
+2. This issue involves conducting an external examination of the body along with other tests that respect his bodily integrity.
+3. The case includes examining the exterior of the body and performing other tests that preserve his bodily integrity.
+4. The situation requires an external body examination and other assessments that do not infringe upon his bodily integrity.
+5. The current matter involves an external body inspection and additional tests that uphold his bodily integrity.
+6. This affair includes an examination of the body's exterior and other tests that maintain his bodily integrity.
+7. The proceeding involves an inspection of the body from the outside and other tests that do not compromise his bodily integrity.
+8. This case involves an external examination and additional tests that respect his bodily integrity.
+9. The situation deals with an external review of the body and other tests that safeguard his bodily integrity.
+10. This issue requires an external examination of the body and other tests that do not breach his bodily integrity.
+11. The proceeding involves inspecting the exterior of the body along with other tests that honor his bodily integrity.
+12. The matter involves an external evaluation of the body and other tests that do not impact his bodily integrity.
+13. This situation includes a non-intrusive examination of the body and other tests that preserve his bodily integrity.
+14. The case involves an external inspection and additional tests that ensure his bodily integrity is not compromised.
+15.
+
+TEST_END

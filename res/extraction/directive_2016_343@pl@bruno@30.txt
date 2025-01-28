@@ -1,0 +1,30 @@
+FACTS
+
+proceeding_matter(bruno, summary_offences)
+
+FACTS_END
+
+TEST
+
+1. The issue at hand pertains to minor offenses.
+2. The case in question deals with summary offenses.
+3. The matter under discussion relates to lesser offenses.
+4. The situation involves minor legal infractions.
+5. This issue concerns summary criminal acts.
+6. The subject involves misdemeanor charges.
+7. The topic at hand involves lesser legal violations.
+8. The case concerns summary legal issues.
+9. The proceeding is related to minor criminal matters.
+10. This involves charges of minor infractions.
+11. The issue involves summary violations.
+12. The matter pertains to minor legal offenses.
+13. The case deals with summary infractions.
+14. The situation concerns misdemeanor offenses.
+15. This involves lesser criminal charges.
+16. The subject at hand pertains to summary crimes.
+17. The current issue involves minor offenses.
+18. The topic concerns legal matters of a summary nature.
+19. The situation involves lesser offenses.
+20. This case pertains to summary law violations.
+
+TEST_END

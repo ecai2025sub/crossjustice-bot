@@ -1,0 +1,30 @@
+FACTS
+
+proceeding_type(bruno, europeanArrestWarrant)
+
+FACTS_END
+
+TEST
+
+1. The proceedings relate to the enforcement of a European arrest warrant.
+2. The case involves the implementation of a European arrest warrant.
+3. The proceedings address the carrying out of a European arrest warrant.
+4. The legal process pertains to the execution of a European arrest warrant.
+5. The matters at hand involve executing a European arrest warrant.
+6. These proceedings focus on the fulfillment of a European arrest warrant.
+7. The case concerns the enforcement of a European arrest warrant.
+8. The proceedings are about the application of a European arrest warrant.
+9. This legal process is about executing a European arrest warrant.
+10. The matter involves the execution of a European arrest warrant.
+11. The legal proceedings deal with the execution of a European arrest warrant.
+12. The case proceedings are related to a European arrest warrant's execution.
+13. The proceedings concern carrying out a European arrest warrant.
+14. These proceedings involve implementing a European arrest warrant.
+15. The legal matters concern the execution of a European arrest warrant.
+16. The process relates to the execution of a European arrest warrant.
+17. The case is about enforcing a European arrest warrant.
+18. The legal proceedings are about the enforcement of a European arrest warrant.
+19. The proceedings involve executing a warrant for arrest in Europe.
+20. The legal process regards the execution of a European arrest warrant.
+
+TEST_END

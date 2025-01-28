@@ -1,0 +1,29 @@
+FACTS
+
+person_document(bruno, decree_preliminary_hearing)
+
+FACTS_END
+
+TEST
+
+1. The individual is linked to a document concerning a decree for a preliminary hearing.
+2. The person is connected to paperwork related to a decree at a preliminary hearing.
+3. The individual is involved with a document regarding a decree for an initial hearing.
+4. The person is affiliated with documentation about a decree in a preliminary hearing.
+5. The individual has ties to a document on a decree for a preliminary session.
+6. The person is related to a document dealing with a decree in an initial hearing.
+7. The individual is associated with a decree document for a preliminary session.
+8. The person is engaged with paperwork for a decree at a preliminary hearing.
+9. The individual is linked to documentation concerning a decree in an initial session.
+10. The person is connected to a decree document at a preliminary hearing.
+11. The individual is affiliated with a document about a decree for an initial session.
+12. The person has involvement with a document regarding a decree for a preliminary hearing.
+13. The individual is related to documentation on a decree for a preliminary session.
+14. The person is associated with paperwork about a decree in an initial hearing.
+15. The individual has a connection to a document concerning a decree for a preliminary session.
+16. The person is engaged with a document related to a decree at an initial hearing.
+17. The individual is linked to a document dealing with a decree for a preliminary session.
+18. The person is affiliated with a decree document concerning a preliminary hearing.
+19
+
+TEST_END

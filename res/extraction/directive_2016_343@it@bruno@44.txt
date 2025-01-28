@@ -1,0 +1,30 @@
+FACTS
+
+proceeding_matter(bruno, preliminary_hearing)
+
+FACTS_END
+
+TEST
+
+1. The forthcoming issue entails an initial hearing.
+2. The case at hand includes a preliminary hearing.
+3. The current matter involves a pre-trial hearing.
+4. The issue under consideration requires an initial hearing.
+5. The situation involves a preliminary court session.
+6. The matter at hand involves an initial judicial hearing.
+7. The ongoing case includes a preliminary session.
+8. The subject involves a preliminary legal hearing.
+9. The proceeding involves an opening hearing.
+10. The situation requires a preliminary courtroom session.
+11. The case involves an initial legal hearing.
+12. The issue involves a preliminary judicial session.
+13. The matter under discussion includes a preliminary hearing.
+14. The case involves a pre-hearing session.
+15. The current issue involves an initial court hearing.
+16. The legal proceedings include a preliminary hearing.
+17. The situation entails a preliminary court hearing.
+18. The matter involves an initial session in court.
+19. The case centers around a preliminary hearing.
+20. The legal matter involves an early-stage hearing.
+
+TEST_END

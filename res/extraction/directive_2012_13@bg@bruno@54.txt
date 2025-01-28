@@ -1,0 +1,30 @@
+FACTS
+
+person_document(bruno, decree_for_constitution)
+
+FACTS_END
+
+TEST
+
+1. The individual is linked to a document related to a constitutional decree.
+2. The person is connected with paperwork regarding a decree for the constitution.
+3. The individual has ties to a document about a constitutional decree.
+4. The person is involved with a document pertaining to a decree for constitution.
+5. This person is associated with documentation concerning a constitutional decree.
+6. The individual is affiliated with a document on a decree for the constitution.
+7. The person is related to documents about a decree concerning the constitution.
+8. The individual is engaged with a document regarding a decree for the constitution.
+9. The person is tied to a document that discusses a constitutional decree.
+10. The individual is associated with paperwork on a decree for constitution.
+11. The person is linked to documents addressing a decree for the constitution.
+12. This individual is involved in a document related to a constitutional decree.
+13. The person is affiliated with a document concerning a decree for the constitution.
+14. The individual is connected to a document about a decree regarding the constitution.
+15. This person is related to documentation pertaining to a constitutional decree.
+16. The individual has connections with documents regarding a decree for constitution.
+17. The person is engaged with paperwork concerning a decree for the constitution.
+18. The individual is tied to a document addressing a decree related to the constitution.
+19. The person is involved with documents about a constitutional decree.
+20. The individual is linked with a document that pertains to a decree for the
+
+TEST_END

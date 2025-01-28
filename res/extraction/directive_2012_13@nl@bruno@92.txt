@@ -1,0 +1,30 @@
+FACTS
+
+person_status(bruno, need_medical_assistance)
+
+FACTS_END
+
+TEST
+
+1. The individual requires medical help.
+2. Medical aid is necessary for the person.
+3. The person is in need of healthcare assistance.
+4. The individual is in need of medical support.
+5. Medical intervention is needed for the person.
+6. The person needs healthcare services.
+7. The individual needs medical attention.
+8. Assistance from medical professionals is required by the person.
+9. The person requires the help of medical personnel.
+10. Medical care is needed for the individual.
+11. The individual requires healthcare intervention.
+12. The person is in need of assistance from healthcare providers.
+13. The individual needs help from medical staff.
+14. The person requires the attention of medical professionals.
+15. Medical services are necessary for the individual.
+16. The individual requires medical treatment.
+17. The person needs the support of healthcare workers.
+18. Medical attention is necessary for the person.
+19. The individual needs help from medical services.
+20. The person requires assistance from medical experts.
+
+TEST_END

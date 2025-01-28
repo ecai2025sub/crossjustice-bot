@@ -1,0 +1,30 @@
+FACTS
+
+proceeding_matter(bruno, questioning)
+
+FACTS_END
+
+TEST
+
+1. The proceedings are focused on interrogating the defendant.
+2. The proceedings involve questioning the defendant.
+3. The case proceedings pertain to the defendant's questioning.
+4. The hearing centers on the interrogation of the defendant.
+5. The focus of the proceedings is the examination of the defendant.
+6. The proceedings revolve around the defendant's interrogation.
+7. The defendant is the subject of questioning in the proceedings.
+8. The inquiry within the proceedings involves the defendant.
+9. The proceedings are about the defendant being questioned.
+10. The questioning of the defendant is central to the proceedings.
+11. The proceedings deal with the interrogation of the defendant.
+12. The defendant's examination is the main focus of the proceedings.
+13. The proceedings are concerned with interrogating the defendant.
+14. The defendant is being questioned in these proceedings.
+15. The case involves questioning the defendant during the proceedings.
+16. The proceedings center around the examination of the defendant.
+17. The proceedings address the issue of questioning the defendant.
+18. The interrogation of the defendant is what the proceedings are about.
+19. The proceedings include an inquiry into the defendant's actions.
+20. The central issue in the proceedings is the questioning of the defendant.
+
+TEST_END

@@ -1,0 +1,30 @@
+FACTS
+
+person_status(bruno, requested)
+
+FACTS_END
+
+TEST
+
+1. The individual is sought through a European arrest warrant.
+2. A European arrest warrant has been issued for the person.
+3. The person is subject to a European arrest warrant.
+4. Authorities have issued a European arrest warrant for the individual.
+5. The person is being pursued under a European arrest warrant.
+6. A European arrest warrant is out for the individual's arrest.
+7. The individual is wanted under a European arrest warrant.
+8. A European arrest warrant has been applied to the person.
+9. The person is under a European arrest warrant request.
+10. The individual is being targeted by a European arrest warrant.
+11. There is a European arrest warrant for the person.
+12. A European arrest warrant has been activated for the individual.
+13. The person is under the jurisdiction of a European arrest warrant.
+14. The individual is subject to a European arrest warrant request.
+15. A European arrest warrant has been filed for the person.
+16. The person is mandated by a European arrest warrant.
+17. The individual is apprehended under a European arrest warrant.
+18. A European arrest warrant calls for the person's apprehension.
+19. The person is under the constraints of a European arrest warrant.
+20. The individual is implicated in a European arrest warrant.
+
+TEST_END

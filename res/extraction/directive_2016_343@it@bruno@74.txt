@@ -1,0 +1,30 @@
+FACTS
+
+proceeding_danger(bruno, public_interest)
+
+FACTS_END
+
+TEST
+
+1. Sharing information is essential for the public good.
+2. The spread of information is vital for public welfare.
+3. Distributing information is crucial for the benefit of society.
+4. Making information available is important for the public's benefit.
+5. Public interest relies on the necessary distribution of information.
+6. Conveying information is key to serving the public interest.
+7. The flow of information is fundamental to public advantage.
+8. It's important to share information for the welfare of the public.
+9. Informing the public is necessary to serve their interests.
+10. Public welfare depends on the essential sharing of information.
+11. The public interest demands the effective dissemination of information.
+12. It's crucial to circulate information for the public's benefit.
+13. For the common good, spreading information is necessary.
+14. Public interest is served by the vital distribution of information.
+15. Ensuring public access to information is essential for their welfare.
+16. The public's benefit requires the necessary flow of information.
+17. Disseminating information is vital to the interests of the public.
+18. Sharing information plays an important role in public welfare.
+19. The public interest is supported by the spread of information.
+20. Public advantage hinges on the effective dissemination of information.
+
+TEST_END

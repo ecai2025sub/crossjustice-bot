@@ -1,0 +1,30 @@
+FACTS
+
+proceeding_matter(bruno, summoned_court)
+
+FACTS_END
+
+TEST
+
+1. The case involves the individual's court summons.
+2. The legal matter pertains to the person's court appearance.
+3. The proceedings relate to summoning the individual to court.
+4. The matter involves the individual's court summons.
+5. The proceedings are about the person being summoned to court.
+6. The case pertains to the summons for the person's court appearance.
+7. The proceedings revolve around the individual's court summons.
+8. The legal issue concerns the person's summons to court.
+9. The proceedings address the individual's court summons.
+10. The matter concerns the court summons issued to the person.
+11. The case concerns the summoning of the individual to court.
+12. The proceedings involve the issuance of a court summons to the person.
+13. The legal matter is about the person's court summons.
+14. The proceedings are related to the individual's court summons.
+15. The case deals with the person's summons to appear in court.
+16. The legal issue pertains to the individual's court summons.
+17. The proceedings focus on the person's court summons.
+18. The matter involves the individual's summons to court.
+19. The case relates to the court summons for the person.
+20. The proceedings are concerned with the individual being called to court.
+
+TEST_END

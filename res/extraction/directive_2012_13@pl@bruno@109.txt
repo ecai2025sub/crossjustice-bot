@@ -1,0 +1,30 @@
+FACTS
+
+proceeding_matter(bruno, court_hearing)
+
+FACTS_END
+
+TEST
+
+1. The issue at hand pertains to a judicial hearing.
+2. The case involves legal proceedings in court.
+3. This matter concerns an upcoming court session.
+4. The situation involves a hearing before a judge.
+5. The topic under discussion is related to a court hearing.
+6. This affair involves going before the court.
+7. The subject involves a hearing in a legal context.
+8. This case deals with judicial proceedings.
+9. The proceeding is related to a legal hearing.
+10. The issue involves a session in court.
+11. This matter is about an appearance in court.
+12. The situation pertains to a legal proceeding.
+13. The topic involves a hearing in the judicial system.
+14. This case concerns a court proceeding.
+15. The affair is related to a hearing before the court.
+16. The subject at hand is related to judicial proceedings.
+17. This involves a matter to be addressed in court.
+18. The situation involves proceedings in a legal setting.
+19. The proceeding concerns a matter to be heard by a judge.
+20. This affair involves attending a court hearing.
+
+TEST_END

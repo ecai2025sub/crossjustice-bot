@@ -1,0 +1,30 @@
+FACTS
+
+person_request_submitted(bruno, defence_counsel)
+
+FACTS_END
+
+TEST
+
+1. The individual has filed a request to speak with their defense attorney.
+2. A request has been made by the person to consult with their defense lawyer.
+3. The individual has requested to communicate with his legal defense representative.
+4. The person has put in a request to confer with his defense counsel.
+5. A communication request with the defense attorney has been submitted by the person.
+6. The individual has sought permission to talk to his defense lawyer.
+7. The person has appealed to get in touch with his legal counsel.
+8. The individual has lodged a request for a meeting with his defense attorney.
+9. A plea has been made by the person to communicate with his legal defense counsel.
+10. The person has applied to have a discussion with his defense lawyer.
+11. The individual has requested interaction with his defense counsel.
+12. The person has initiated a request to speak with his lawyer.
+13. A request for communication with the defense attorney has been initiated by the individual.
+14. The individual has made a formal request to talk to his legal defense representative.
+15. The person has expressed a desire to connect with his defense lawyer.
+16. A request to converse with the defense counsel has been lodged by the person.
+17. The individual has moved to engage in communication with his attorney.
+18. The person has officially asked to discuss matters with his defense lawyer.
+19. A formal application has been submitted by the individual to reach out to his defense counsel.
+
+
+TEST_END

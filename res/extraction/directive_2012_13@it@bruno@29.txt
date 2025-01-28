@@ -1,0 +1,30 @@
+FACTS
+
+proceeding_matter(bruno, minor_offence)
+
+FACTS_END
+
+TEST
+
+1. The case involves a petty offense.
+2. This matter pertains to a minor infraction.
+3. The proceedings are related to a small violation.
+4. The legal action deals with a trivial offense.
+5. This case is about a negligible infraction.
+6. The proceedings address a minor violation.
+7. This issue involves a lesser offense.
+8. The case concerns a small-scale infraction.
+9. The proceedings relate to a minor breach.
+10. This legal matter is about a minor offense.
+11. The case involves a slight violation.
+12. The proceedings are about a minor misdemeanor.
+13. This situation pertains to a minor transgression.
+14. The case deals with a minor infringement.
+15. These proceedings concern a low-level offense.
+16. The matter involves a minor contravention.
+17. This legal issue relates to a minor offense.
+18. The proceedings are centered around a minor infraction.
+19. This case involves a minor legal violation.
+20. The proceedings pertain to a minor misconduct.
+
+TEST_END

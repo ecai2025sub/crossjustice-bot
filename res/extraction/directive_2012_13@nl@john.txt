@@ -1,0 +1,21 @@
+FACTS
+
+person_status(john, suspect).
+person_document(john, new_evidence).
+person_request_submitted(john, access_materials).
+
+FACTS_END
+TEST
+
+1. John is a suspect in a burglary case. After the investigation, he gains access to newly discovered evidence. He submits a reasoned requested to access the documents.
+2. John, a suspect in a burglary investigation, becomes aware of newly uncovered evidence. He submits a detailed request to obtain access to the related documents.
+3. In a burglary case, John, the suspect, learns about recently discovered evidence. He files a reasoned application to review the documents.
+4. John, who is under suspicion in a burglary case, gains knowledge of newly found evidence. He formally requests access to the documents, providing a detailed explanation.
+5. As a suspect in a burglary investigation, John discovers the existence of new evidence. He submits a well-reasoned request to access the associated records.
+6. John, implicated as a suspect in a burglary, learns about newly surfaced evidence following the investigation. He makes a formal and reasoned application to view the documents.
+7. In connection with a burglary case, John, the primary suspect, becomes aware of new evidence. He submits a detailed request to access the documentation.
+8. Following the investigation of a burglary, John, the suspect, learns of newly discovered evidence. He files a reasoned request to obtain access to the related files.
+9. John, suspected in a burglary case, finds out about newly surfaced evidence. He submits a formal request, providing justification, to review the documents.
+10. As a suspect in a burglary, John learns about evidence that has recently been discovered. He submits a reasoned request to access the relevant documentation.
+
+TEST_END

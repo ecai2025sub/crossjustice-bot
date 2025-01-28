@@ -1,0 +1,30 @@
+FACTS
+
+person_event(bruno, make_statements)
+
+FACTS_END
+
+TEST
+
+1. The individual has provided statements to the investigators throughout the proceedings.
+2. During the proceedings, the person has given statements to the investigative authorities.
+3. Statements have been made by the person to investigators during the course of the proceedings.
+4. Throughout the proceedings, the person has issued statements to the investigative team.
+5. The individual has delivered statements to authorities during the investigation process.
+6. During the proceedings, the individual has made statements to those conducting the investigation.
+7. Statements have been offered by the person to the authorities during the proceedings.
+8. Throughout the course of the investigation, the person has given statements to the authorities.
+9. The individual has made remarks to the investigators during the proceedings.
+10. The person has communicated statements to the authorities throughout the investigation.
+11. During the investigation, the person has provided statements to the authorities.
+12. The individual has articulated statements to the investigative team during the proceedings.
+13. The person has shared statements with investigators during the course of the proceedings.
+14. Throughout the proceedings, the individual has contributed statements to the authorities.
+15. The person has relayed statements to the investigative authorities during the process.
+16. During the proceedings, the individual has conveyed statements to the investigators.
+17. The person has expressed statements to the authorities during the course of the investigation.
+18. The individual has submitted statements to the investigative team throughout the proceedings.
+19. During the course of the proceedings, the person has communicated with the investigators.
+20.
+
+TEST_END

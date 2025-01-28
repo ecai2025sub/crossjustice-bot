@@ -1,0 +1,30 @@
+FACTS
+
+proceeding_matter(bruno, imprisonment_over_twelve_years)
+
+FACTS_END
+
+TEST
+
+1. The case could result in imprisonment for more than twelve years.
+2. The legal action may lead to a sentence longer than twelve years.
+3. The trial could result in a prison term exceeding twelve years.
+4. The proceedings might lead to incarceration for over twelve years.
+5. The case involves a potential jail sentence of more than twelve years.
+6. The legal process could result in being imprisoned for over twelve years.
+7. The proceedings may result in a term of imprisonment exceeding twelve years.
+8. The case could involve serving a prison sentence longer than twelve years.
+9. The trial might lead to a jail term of more than twelve years.
+10. The proceedings could result in being jailed for over twelve years.
+11. The legal action might lead to imprisonment that exceeds twelve years.
+12. The case may involve a potential prison sentence longer than twelve years.
+13. The legal proceedings could result in incarceration for more than twelve years.
+14. The trial involves the possibility of a prison term exceeding twelve years.
+15. The proceedings might result in a jail sentence of more than twelve years.
+16. The case could lead to being imprisoned for a period longer than twelve years.
+17. The legal process involves the risk of imprisonment exceeding twelve years.
+18. The proceedings could involve a jail term that is more than twelve years.
+19. The case may lead to a prison sentence that exceeds twelve years.
+20. The legal action could result in incarceration for a period beyond twelve years.
+
+TEST_END

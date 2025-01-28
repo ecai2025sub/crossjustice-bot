@@ -1,0 +1,25 @@
+FACTS
+
+proceeding_matter(sophia, questioning).
+proceeding_country(sophia, italy).
+person_nationality(sophia, greece).
+person_status(sophia, requested).
+person_status(sophia, suspect).
+proceeding_matter(sophia, summoned_court).
+proceeding_language(sophia, italian).
+
+FACTS_END
+TEST
+
+1. Sophia is a Greek citizen. While traveling through Italy she is informed by the police that she is under investigation for a crime. The proceedings are being conducted in italy, and all official communications are in italian. Sophia speaks only Greek and some basic English. She is not in custody but has been ordered to remain in Italy for questioning. She has been summoned to speak with the Italian courts.
+2. Sophia, a Greek citizen, was traveling through Italy when the police informed her that she is under investigation for a crime. The case is being handled in Italy, with all official communication in Italian. Sophia speaks only Greek and limited English. While not in custody, she has been ordered to stay in Italy for questioning and has been summoned to appear before the Italian courts.
+3. While traveling in Italy, Sophia, a Greek national, was notified by the police that she is being investigated for a crime. The proceedings are taking place in Italy, and all official documents are in Italian. Sophia speaks Greek and has basic English skills. She is not detained but has been required to remain in Italy for questioning and attend a court hearing.
+4. Sophia, a Greek citizen with limited English and fluent in Greek, was informed by Italian authorities during her travels in Italy that she is under investigation for a crime. The legal proceedings are in Italian. She has been ordered to stay in Italy for questioning and summoned to meet with the courts, though she is not currently in custody.
+5. In Italy, Sophia, a Greek national, was informed by the police during her travels that she is being investigated for a crime. The case is being conducted in Italian, a language Sophia does not speak, as she knows only Greek and some basic English. She is not under arrest but has been instructed to remain in Italy for questioning and appear before the courts.
+6. Sophia, a Greek citizen who speaks Greek and minimal English, was traveling in Italy when she was notified by the police that she is under investigation for a crime. The proceedings are being conducted in Italian. She is not in custody but has been ordered to stay in Italy and has been summoned to court for questioning.
+7. While passing through Italy, Sophia, a citizen of Greece, was informed by the police that she is under investigation for a crime. The investigation and legal communications are in Italian, which she does not speak. She knows only Greek and basic English. Sophia is not detained but has been instructed to remain in Italy and attend questioning before the courts.
+8. Sophia, a Greek citizen, was notified during her travels in Italy that she is under investigation for a crime. The Italian authorities are handling the case, and all communications are in Italian. Sophia, who speaks only Greek and limited English, is not in custody but has been ordered to stay in Italy and summoned to appear in court.
+9. Informed by the police while traveling in Italy, Sophia, a Greek national, is under investigation for a crime. The proceedings are in Italian, which she does not understand, as she speaks only Greek and some basic English. She has not been detained but must remain in Italy and has been summoned to court.
+10. Sophia, a Greek citizen traveling through Italy, was told by the police that she is under investigation for a crime. The case proceedings are in Italian, a language she does not speak, as she knows only Greek and basic English. She has been ordered to stay in Italy for questioning and summoned to the Italian courts, though she is not in custody.
+
+TEST_END

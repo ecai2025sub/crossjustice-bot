@@ -1,0 +1,30 @@
+FACTS
+
+person_document(bruno, decree_constitution)
+
+FACTS_END
+
+TEST
+
+1. The individual is linked to a document outlining the constitutional decree.
+2. The person is connected with a document that signifies the decree of constitution.
+3. There is an association between the individual and a document declaring the constitution.
+4. The person has ties to a document that denotes the constitutional decree.
+5. The individual is related to a document that indicates the decree of constitution.
+6. The person is affiliated with a document that marks the constitutional decree.
+7. The individual is correlated with a document specifying the decree of constitution.
+8. The person is involved with a document that represents the constitutional decree.
+9. There is a connection between the person and a document illustrating the decree of constitution.
+10. The person is linked to a document that outlines the constitutional decree.
+11. The individual has an association with a document that signifies the decree of constitution.
+12. The person is related to a document that declares the constitutional decree.
+13. The individual is affiliated with a document indicating the decree of constitution.
+14. The person is connected to a document that denotes the constitutional decree.
+15. The individual has ties to a document outlining the decree of constitution.
+16. The person is associated with a document representing the constitutional decree.
+17. There is a correlation between the person and a document specifying the decree of constitution.
+18. The individual is linked with a document that marks the constitutional decree.
+19. The person is involved in a document illustrating the decree of constitution.
+20. The individual is connected
+
+TEST_END

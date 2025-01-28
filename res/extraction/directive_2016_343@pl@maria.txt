@@ -1,0 +1,24 @@
+FACTS
+
+proceeding_matter(maria, evidence_gathering_act).
+person_status(maria, suspect).
+proceeding_danger(maria, public_interest).
+person_status(maria, deprived_of_liberty).
+person_danger(maria, proper_conduct_proceedings).
+proceeding_danger(maria,investigation).
+
+FACTS_END
+TEST
+
+1. Maria has been arrested for theft in Poland. The authority decided to detain her due to the risks of safety of the public, and to push for a more active investigative measure to get the evidence needed.
+2. Maria was arrested in Poland for theft. The authorities decided to detain her, citing concerns for public safety and the need for more active investigative measures to obtain the necessary evidence.
+3. In Poland, Maria was taken into custody on theft charges. The decision to detain her was made to safeguard public safety and to facilitate a more thorough investigation to gather the required evidence.
+4. Maria was arrested for theft in Poland, and the authorities chose to detain her due to safety concerns for the public and the need for more intense investigative actions to secure the needed evidence.
+5. Arrested in Poland on theft charges, Maria is being detained by the authorities to ensure public safety and to encourage a more aggressive investigation aimed at acquiring essential evidence.
+6. Maria has been arrested in Poland for theft. The authorities have opted for her detention to mitigate public safety risks and to pursue a more proactive investigation to gather the required evidence.
+7. Detained in Poland for theft, Maria’s detention was ordered by the authorities to protect public safety and to intensify investigative efforts to obtain the necessary evidence.
+8. In Poland, Maria was arrested for theft, and the authorities decided to keep her in detention to address public safety risks and to accelerate the investigation in order to obtain crucial evidence.
+9. Maria has been arrested in Poland for theft, with the authorities opting to detain her for public safety reasons and to facilitate a more vigorous investigation to collect the necessary evidence.
+10. Arrested for theft in Poland, Maria is in custody, as the authorities decided to detain her in order to protect public safety and push for a more active investigation to gather the required evidence.
+
+TEST_END

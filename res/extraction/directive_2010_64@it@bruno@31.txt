@@ -1,0 +1,30 @@
+FACTS
+
+person_status(bruno, suspect)
+
+FACTS_END
+
+TEST
+
+1. The individual is considered a suspect.
+2. This person is under suspicion.
+3. The individual is a person of interest.
+4. This person is suspected.
+5. The individual is thought to be involved.
+6. The person is under investigation.
+7. This individual is being suspected.
+8. The person is a potential suspect.
+9. This person is implicated.
+10. The individual is regarded as a suspect.
+11. The person has been identified as a suspect.
+12. This individual is a suspect.
+13. The person is believed to be a suspect.
+14. This individual is viewed as a suspect.
+15. The person is on the suspect list.
+16. This individual is being considered a suspect.
+17. The person is a suspect in the case.
+18. This person is being looked at as a suspect.
+19. The individual is under scrutiny as a suspect.
+20. The person is labeled a suspect.
+
+TEST_END

@@ -1,0 +1,25 @@
+FACTS
+
+proceeding_type(luke, europeanArrestWarrant).
+person_document(luke, europeanArrestWarrant).
+person_status(luke, accused).
+proceeding_matter(luke, arrest).
+person_speaks(luke, italian).
+lawyer_language(luke, polish).
+proceeding_language(luke, polish).
+
+FACTS_END
+TEST
+
+1. Luke, an Italian citizen, who only speaks italian, was arrested in Warsaw, Poland. Luke is trying to argue against the execution of the European Arrest Warrant. He has been assigned a polish lawyer by the polish Government. The proceeding is in Polish.
+2. Luke, an Italian national speaking only in Italian, was detained in Warsaw, Poland. He is contesting the enforcement of a European Arrest Warrant. The Polish government has assigned him a local lawyer, and the proceedings are being conducted in Polish.
+3. In Warsaw, Poland, Luke, an Italian citizen who speaks only Italian, was arrested. He is challenging the execution of a European Arrest Warrant. A Polish attorney has been appointed for him by the government, and the case is being handled in Polish.
+4. Luke, an Italian-speaking individual from Italy, was apprehended in Warsaw, Poland. He is opposing the enforcement of a European Arrest Warrant. The Polish authorities have provided him with a lawyer, and the legal proceedings are taking place in Polish.
+5. While in Warsaw, Poland, Luke, an Italian citizen with no language skills beyond Italian, was arrested. He is disputing the execution of a European Arrest Warrant. The Polish government has assigned him a lawyer, and the case is proceeding in Polish.
+6. Luke, a native of Italy who speaks only Italian, was detained in Warsaw, Poland. He is attempting to argue against the implementation of a European Arrest Warrant. A Polish lawyer has been designated for him, and the proceedings are being conducted in Polish.
+7. In Poland, Luke, an Italian citizen speaking exclusively in Italian, was arrested in Warsaw. He is contesting the validity of a European Arrest Warrant. The government has appointed him a Polish attorney, and the legal process is being conducted in Polish.
+8. Luke, an Italian-speaking individual from Italy, was arrested in Warsaw, Poland. He is opposing the enforcement of a European Arrest Warrant. The Polish authorities have provided him with a lawyer, and the legal proceedings are taking place in Polish.
+9. Luke, an Italian national who knows only Italian, was taken into custody in Warsaw, Poland. He is attempting to fight the enforcement of a European Arrest Warrant. The Polish government has assigned him legal representation, and the case is being conducted in Polish.
+10. Arrested in Warsaw, Poland, Luke, an Italian citizen speaking only in Italian, is disputing the European Arrest Warrant against him. The Polish authorities have appointed a lawyer to represent him, and the proceedings are being carried out in Polish.
+
+TEST_END

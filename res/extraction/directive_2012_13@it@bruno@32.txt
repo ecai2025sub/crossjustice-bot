@@ -1,0 +1,30 @@
+FACTS
+
+person_document(bruno, challenge_detention)
+
+FACTS_END
+
+TEST
+
+1. The issued document is required to contest the detention.
+2. The document provided is necessary to dispute the detention.
+3. To challenge the detention, the released document is essential.
+4. The document that has been issued is crucial for opposing the detention.
+5. You need the issued document to question the detention.
+6. The document given is vital for challenging the detention.
+7. The document released is required to argue against the detention.
+8. To dispute the detention, the issued document is needed.
+9. The document issued is crucial for contesting the detention.
+10. You require the provided document to challenge the detention.
+11. The document is needed to refute the detention.
+12. The issued paperwork is necessary for disputing the detention.
+13. To oppose the detention, the document issued is required.
+14. The document is essential to question the detention.
+15. The document that’s been issued is needed to challenge the detention.
+16. The necessary document to challenge the detention has been issued.
+17. The document is required to contest the lawfulness of the detention.
+18. To dispute the detention, the necessary document has been issued.
+19. The issued document is needed to object to the detention.
+20. The document is essential for challenging the detention.
+
+TEST_END

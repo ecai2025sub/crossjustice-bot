@@ -1,0 +1,29 @@
+FACTS
+
+person_document(bruno, remand_measure)
+
+FACTS_END
+
+TEST
+
+1. The individual is linked to a document related to a remand measure.
+2. The person has a connection to a document about a remand measure.
+3. The individual is affiliated with a document concerning a remand measure.
+4. The person is tied to a document regarding a remand measure.
+5. The individual is involved with a document pertaining to a remand measure.
+6. The person is connected to a document that involves a remand measure.
+7. The individual is associated with a document that discusses a remand measure.
+8. The person is related to a document that concerns a remand measure.
+9. The individual has ties to a document that addresses a remand measure.
+10. The person is linked to a document dealing with a remand measure.
+11. The individual is connected with a document referencing a remand measure.
+12. The person is affiliated with a document that pertains to a remand measure.
+13. The individual is involved in a document that concerns a remand measure.
+14. The person is associated with a document that covers a remand measure.
+15. The individual is related to a document discussing a remand measure.
+16. The person is connected with a document that is about a remand measure.
+17. The individual is linked with a document concerning a remand measure.
+18. The person has a connection with a document that regards a remand measure.
+19. The individual is associated with a document that involves a remand
+
+TEST_END

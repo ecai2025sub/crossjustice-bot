@@ -1,0 +1,30 @@
+FACTS
+
+person_document(bruno, request_discontinuation_proceedings)
+
+FACTS_END
+
+TEST
+
+1. The individual is linked to a petition to halt the proceedings.
+2. The person is connected to a motion to terminate the proceedings.
+3. The individual is involved in a request to cease the proceedings.
+4. The person is related to a plea to stop the proceedings.
+5. The individual is tied to an appeal to end the proceedings.
+6. The person is affiliated with a request to suspend the proceedings.
+7. The individual is associated with an application to withdraw the proceedings.
+8. The person is engaged in a move to discontinue the proceedings.
+9. The individual has a connection to a demand to conclude the proceedings.
+10. The person is implicated in a request to bring the proceedings to a halt.
+11. The individual is part of a bid to discontinue the proceedings.
+12. The person is linked to an effort to terminate the proceedings.
+13. The individual is involved with a request to call off the proceedings.
+14. The person is connected to a proposition to end the proceedings.
+15. The individual is associated with a suggestion to suspend the proceedings.
+16. The person is aligned with a request to put a stop to the proceedings.
+17. The individual is involved in a proposal to cease the proceedings.
+18. The person is tied to an initiative to discontinue the proceedings.
+19. The individual is related to a solicitation to stop the proceedings.
+20. The person is engaged with a request to terminate the proceedings.
+
+TEST_END

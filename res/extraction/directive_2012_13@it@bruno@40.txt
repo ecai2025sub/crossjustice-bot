@@ -1,0 +1,30 @@
+FACTS
+
+proceeding_matter(bruno, precautionary_detention)
+
+FACTS_END
+
+TEST
+
+1. The issue at hand pertains to protective custody.
+2. This case concerns preventive detention.
+3. The situation involves the use of precautionary incarceration.
+4. The matter deals with preemptive confinement.
+5. This involves the detention of individuals as a precautionary measure.
+6. The topic relates to the use of safeguard detention.
+7. This situation pertains to precautionary holding.
+8. The case involves the practice of preventive custody.
+9. The proceeding involves the use of precautionary detainment.
+10. This matter concerns the imposition of precautionary custody.
+11. The issue deals with preventive holding.
+12. The subject pertains to precautionary jail time.
+13. The proceeding is related to preemptive detention measures.
+14. This involves the use of precautionary imprisonment.
+15. The situation concerns the application of preventive confinement.
+16. The matter at hand involves safety-based detention.
+17. This case deals with the implementation of precautionary custody.
+18. The topic involves the use of preemptive incarceration.
+19. The proceedings pertain to precautionary confinement.
+20. This involves the matter of preventive detainment.
+
+TEST_END

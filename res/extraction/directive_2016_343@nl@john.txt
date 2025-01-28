@@ -1,0 +1,20 @@
+FACTS
+
+person_status(john, suspect).
+person_event(john, cannot_be_located).
+
+FACTS_END
+TEST
+
+1. John is a suspect in a burglary case. He cannot be located by the Dutch Police.
+2. John is under suspicion in a burglary case but is currently untraceable by the Dutch police.
+3. The Dutch authorities have been unable to find John, who is under suspicion in a burglary.
+4. As a suspect in a burglary, John has not been located by the Dutch authorities.
+5. The Dutch police are unable to locate John, who is a suspect in a burglary case.
+6. John, a suspect in a burglary case, cannot be found by the Dutch police.
+7. The Dutch authorities are searching for John, a suspect in a burglary case, but have been unable to locate him.
+8. John, suspected in a burglary case, remains unaccounted for by the Dutch police.
+9. The Dutch police are currently unable to locate John, who is being investigated for burglary.
+10. As a suspect in a burglary, John is missing and cannot be found by the Dutch authorities.
+
+TEST_END

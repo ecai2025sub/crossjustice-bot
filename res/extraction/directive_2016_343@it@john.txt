@@ -1,0 +1,19 @@
+FACTS
+
+person_status(john, suspect).
+
+FACTS_END
+TEST
+
+1. John is a suspect in a burglary case.
+2. John is being investigated as a suspect in a burglary case.
+3. John is suspected in a burglary case.
+4. A burglary has John as one of the main suspects.
+5. John is under suspicion in connection with a burglary.
+6. In the ongoing burglary case, John is considered a suspect.
+7. John is being looked into as a suspect in a burglary.
+8. The investigation into a burglary has John as a prime suspect.
+9. John is currently a suspect in a burglary case.
+10. As part of a burglary, John is regarded as a suspect.
+
+TEST_END

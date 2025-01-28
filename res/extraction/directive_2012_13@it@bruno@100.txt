@@ -1,0 +1,30 @@
+FACTS
+
+person_status(bruno, arrested)
+
+FACTS_END
+
+TEST
+
+1. The individual has been taken into custody.
+2. The suspect has been apprehended.
+3. The person has been detained.
+4. The individual has been placed under arrest.
+5. The suspect has been captured.
+6. The person has been taken in by the authorities.
+7. The individual has been brought in by law enforcement.
+8. The suspect has been seized by the police.
+9. The person is now in police custody.
+10. The individual has been nabbed by the authorities.
+11. The suspect has been booked.
+12. The person has been rounded up by law enforcement.
+13. The individual has been held by the police.
+14. The suspect has been taken in for questioning.
+15. The person has been caught by the authorities.
+16. The individual has been restrained by law enforcement.
+17. The suspect has been apprehended by the police.
+18. The person has been taken under police control.
+19. The individual has been secured by the authorities.
+20. The suspect has been intercepted and arrested.
+
+TEST_END

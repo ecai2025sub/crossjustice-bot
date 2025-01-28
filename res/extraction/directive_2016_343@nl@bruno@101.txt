@@ -1,0 +1,30 @@
+FACTS
+
+person_event(bruno, not_appear_hearing)
+
+FACTS_END
+
+TEST
+
+1. The individual failed to show up at the hearing.
+2. The person was absent from the hearing.
+3. The individual did not attend the hearing.
+4. The person was a no-show at the hearing.
+5. The individual did not make it to the hearing.
+6. The person was not present at the hearing.
+7. The individual was missing at the hearing.
+8. The person did not turn up for the hearing.
+9. The individual did not come to the hearing.
+10. The person skipped the hearing.
+11. The individual was not in attendance at the hearing.
+12. The person did not arrive at the hearing.
+13. The individual did not participate in the hearing.
+14. The person was absent during the hearing.
+15. The individual was not there for the hearing.
+16. The person did not show for the hearing.
+17. The individual was not accounted for at the hearing.
+18. The person did not present themselves at the hearing.
+19. The individual did not make an appearance at the hearing.
+20. The person was not seen at the hearing.
+
+TEST_END

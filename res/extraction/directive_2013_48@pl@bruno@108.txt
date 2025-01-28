@@ -1,0 +1,31 @@
+FACTS
+
+proceeding_type(bruno, accelerated_proceedings)
+
+FACTS_END
+
+TEST
+
+1. The proceedings are in the form of abbreviated trial procedure
+2. The proceedings are in the form of summary proceedings.
+3. The pace of the proceedings is quickened.
+3. The proceedings are being expedited.
+4. The developments are hastened.
+5. The proceedings are happening at an increased speed.
+6. The timeline for the proceedings is shortened.
+7. The proceedings are progressing more swiftly.
+8. The rate of proceedings is intensified.
+9. There is an acceleration in the proceedings.
+10. The proceedings are advancing rapidly.
+11. The proceedings are gaining momentum.
+12. The proceedings are being fast-tracked.
+13. The speed of the proceedings is enhanced.
+14. The proceedings are unfolding more quickly.
+15. The proceedings have been put on the fast track.
+16. The proceedings are being pushed forward.
+17. The tempo of the proceedings has increased.
+18. The pace of events is accelerating.
+19. The proceedings are in high gear.
+20. The proceedings are proceeding with increased velocity.
+
+TEST_END

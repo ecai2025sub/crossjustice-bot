@@ -1,0 +1,30 @@
+FACTS
+
+proceeding_matter(bruno, arrest)
+
+FACTS_END
+
+TEST
+
+1. The process includes detaining the individual.
+2. The individual is taken into custody as part of the proceedings.
+3. Arresting the person is part of the proceedings.
+4. The proceedings entail the apprehension of the person.
+5. Detainment of the individual is involved in the proceedings.
+6. The proceedings consist of the person's arrest.
+7. The person's apprehension is a component of the proceedings.
+8. The arrest of the individual is encompassed in the proceedings.
+9. The proceedings cover the individual's detainment.
+10. Taking the person into custody is included in the proceedings.
+11. The person is arrested as part of the legal process.
+12. The proceedings necessitate the arrest of the individual.
+13. Apprehending the person is part of the procedures.
+14. The process involves taking the individual into custody.
+15. The arrest of the person is a part of the proceedings.
+16. The person is detained as part of the proceedings.
+17. The proceedings require the apprehension of the individual.
+18. The individual’s arrest is a segment of the proceedings.
+19. The procedures include the individual's apprehension.
+20. Taking the individual into custody is part of the proceedings.
+
+TEST_END

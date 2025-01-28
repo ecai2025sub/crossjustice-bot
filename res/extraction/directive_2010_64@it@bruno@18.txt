@@ -1,0 +1,29 @@
+FACTS
+
+lawyer_language(bruno, Language)
+
+FACTS_END
+
+TEST
+
+1. The lawyer is able to speak, read, and comprehend italian.
+2. The attorney can communicate, read, and grasp italian.
+3. italian is within the lawyer's abilities to speak, read, and understand.
+4. The lawyer possesses the skills to speak, read, and understand italian.
+5. The lawyer is capable of speaking, reading, and understanding italian.
+6. The lawyer has the ability to speak, read, and comprehend italian.
+7. The attorney is proficient in speaking, reading, and understanding italian.
+8. italian can be spoken, read, and understood by the lawyer.
+9. The lawyer is fluent in speaking, reading, and understanding italian.
+10. The lawyer can articulate, read, and comprehend italian.
+11. The lawyer knows how to speak, read, and understand italian.
+12. The attorney is adept at speaking, reading, and understanding italian.
+13. The lawyer can express, read, and comprehend italian.
+14. The lawyer has the capability to speak, read, and understand italian.
+15. italian can be communicated, read, and understood by the lawyer.
+16. The lawyer can both speak and read italian, as well as understand it.
+17. The lawyer is skilled in speaking, reading, and understanding italian.
+18. The lawyer is versed in speaking, reading, and comprehending italian.
+19. The attorney can handle speaking, reading, italian.
+
+TEST_END

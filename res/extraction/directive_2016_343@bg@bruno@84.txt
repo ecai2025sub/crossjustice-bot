@@ -1,0 +1,30 @@
+FACTS
+
+proceeding_matter(bruno, hearing)
+
+FACTS_END
+
+TEST
+
+1. The subsequent issue pertains to a hearing.
+2. The matter at hand involves a hearing.
+3. The following matter includes a hearing.
+4. A hearing is involved in the proceeding issue.
+5. The case in question involves a hearing.
+6. The subject matter involves a hearing.
+7. The upcoming issue entails a hearing.
+8. A hearing is part of the proceeding matter.
+9. The next topic involves a hearing.
+10. The issue under consideration involves a hearing.
+11. A hearing is related to the proceeding matter.
+12. The matter under discussion involves a hearing.
+13. The proceeding case involves a hearing.
+14. The issue at hand includes a hearing.
+15. The current matter involves a hearing.
+16. A hearing is connected to the matter at hand.
+17. The proceeding topic involves a hearing.
+18. The ongoing issue pertains to a hearing.
+19. This matter involves a hearing.
+20. The particular issue involves a hearing.
+
+TEST_END

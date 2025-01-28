@@ -1,0 +1,30 @@
+FACTS
+
+person_document(bruno, charge)
+
+FACTS_END
+
+TEST
+
+1. The issued document is the charge.
+2. The charge is the document that was issued.
+3. The document that has been issued serves as the charge.
+4. The charge is represented by the document issued.
+5. The document provided is the charge.
+6. The issued paperwork constitutes the charge.
+7. The charge comes in the form of the issued document.
+8. The document in question is the charge.
+9. The charge is detailed in the issued document.
+10. The document, once issued, is the charge.
+11. The charge is contained within the issued document.
+12. The issued document acts as the charge.
+13. The charge is the document that has been issued.
+14. The document functions as the charge once issued.
+15. The document that was provided is the charge.
+16. The charge is outlined in the issued document.
+17. The issued paper is the charge.
+18. The document, when issued, becomes the charge.
+19. The charge has been documented in the issued paper.
+20. The document, as issued, represents the charge.
+
+TEST_END

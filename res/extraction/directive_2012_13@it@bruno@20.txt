@@ -1,0 +1,30 @@
+FACTS
+
+person_danger(bruno, fundamental_rights)
+
+FACTS_END
+
+TEST
+
+1. It is essential to prevent any harm to an individual's fundamental rights.
+2. Protecting the basic rights of every person is necessary.
+3. We must ensure that no individual's fundamental rights are compromised.
+4. Safeguarding the fundamental rights of all individuals is crucial.
+5. It is important to prevent any infringement on a person's basic rights.
+6. We should avoid violating anyone's fundamental rights.
+7. Preserving the essential rights of each person is imperative.
+8. There is a necessity to safeguard individuals' basic rights from harm.
+9. Ensuring the protection of every person's fundamental rights is vital.
+10. It is critical to avoid any breach of a person's fundamental rights.
+11. We need to prevent any damage to the basic rights of individuals.
+12. Avoidance of harm to the fundamental rights of people is required.
+13. Protecting the essential rights of all persons is a must.
+14. It is necessary to guard against any compromise of fundamental rights.
+15. We should ensure that no harm comes to the basic rights of individuals.
+16. Preserving individuals' fundamental rights is essential.
+17. Safeguarding the basic rights of every person is important.
+18. Avoiding any infringement on fundamental rights is necessary.
+19. It is important to shield individuals from any harm to their basic rights.
+20. We must prioritize the protection of fundamental rights for all.
+
+TEST_END

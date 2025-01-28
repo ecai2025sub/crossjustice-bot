@@ -1,0 +1,30 @@
+FACTS
+
+person_document(bruno, indictment)
+
+FACTS_END
+
+TEST
+
+1. The issued document is an indictment.
+2. An indictment is the document that has been released.
+3. The document released serves as an indictment.
+4. An indictment is what the issued document is.
+5. The document in question is an indictment.
+6. The document that has been issued is an indictment.
+7. What has been issued is an indictment document.
+8. The document provided is an indictment.
+9. An indictment is what the document constitutes.
+10. The document that was issued is an indictment.
+11. An indictment is the nature of the issued document.
+12. The document that is issued is an indictment.
+13. The released document is formally an indictment.
+14. The document turns out to be an indictment.
+15. An indictment is indeed the issued document.
+16. The document happens to be an indictment.
+17. The document issued takes the form of an indictment.
+18. The document delivered is an indictment.
+19. An indictment is the form of the document issued.
+20. The form of the issued document is an indictment.
+
+TEST_END

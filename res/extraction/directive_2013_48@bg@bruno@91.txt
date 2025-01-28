@@ -1,0 +1,30 @@
+FACTS
+
+proceeding_matter(bruno, interrogation)
+
+FACTS_END
+
+TEST
+
+1. The matter involves an interrogation process.
+2. The person has been interrogated.
+3. The matter pertains to a session of interrogation.
+4. The case revolves around a session of questioning.
+5. The proceedings deal with an interview scenario.
+6. The issue concerns a session of questioning.
+7. The case involves a questioning session.
+8. The proceedings are about a questioning procedure.
+9. The case is centered on an interview session.
+10. The topic concerns a session of interrogation.
+11. The proceedings focus on a questioning event.
+12. The issue involves an interrogation session.
+13. The case concerns a process of questioning.
+14. The proceedings relate to an interrogation affair.
+15. The matter is about a questioning session.
+16. The case pertains to an interrogation situation.
+17. The proceedings are centered around a questioning activity.
+18. The matter focuses on an interrogation process.
+19. The proceedings involve a session of questioning.
+20. The case deals with an interrogation scenario.
+
+TEST_END

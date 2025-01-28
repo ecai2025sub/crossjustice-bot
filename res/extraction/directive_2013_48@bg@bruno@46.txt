@@ -1,0 +1,30 @@
+FACTS
+
+proceeding_matter(bruno, lawyer_presence_required)
+
+FACTS_END
+
+TEST
+
+1. The case requires the lawyer's presence at the proceedings.
+2. A lawyer's attendance is necessary for these proceedings.
+3. These proceedings involve a case that necessitates the lawyer being present.
+4. The lawyer's attendance is mandatory for the case proceedings.
+5. The presence of the lawyer is essential for these case proceedings.
+6. This case involves proceedings that demand the lawyer's presence.
+7. A lawyer must be present for the proceedings of this case.
+8. The proceedings for this case require a lawyer to be present.
+9. A lawyer's presence is compulsory for these proceedings.
+10. The presence of a lawyer is required in this case's proceedings.
+11. These proceedings call for the lawyer to be present due to the case.
+12. The lawyer needs to be present at the proceedings concerning this case.
+13. The proceedings demand the attendance of a lawyer for this case.
+14. This case requires a lawyer to attend the proceedings.
+15. The lawyer's presence is needed at the proceedings for this case.
+16. These are proceedings where a lawyer must be present due to the case.
+17. The case requires a lawyer to be present during the proceedings.
+18. The proceedings necessitate the lawyer being present for this case.
+19. A lawyer is required to attend these proceedings concerning the case.
+20. The proceedings for this case mandate the presence of a lawyer.
+
+TEST_END

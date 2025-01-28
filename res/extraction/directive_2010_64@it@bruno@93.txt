@@ -1,0 +1,30 @@
+FACTS
+
+person_document(bruno, judgement)
+
+FACTS_END
+
+TEST
+
+1. The issued document is a judgment.
+2. A judgment has been issued in the document.
+3. The document that was issued is a judgment.
+4. This document serves as a judgment.
+5. The released document is a judgment.
+6. A judgment document has been issued.
+7. The document presented is a judgment.
+8. The document provided is a judgment.
+9. This issued document constitutes a judgment.
+10. The document distributed is a judgment.
+11. The document delivered is a judgment.
+12. The document in question is a judgment.
+13. The document that has been issued is a judgment.
+14. The provided document serves as a judgment.
+15. An issued judgment is in the document.
+16. The document functions as a judgment.
+17. A judgment is contained in the issued document.
+18. The document acts as a judgment.
+19. The document released serves as a judgment.
+20. The document that has been delivered is a judgment.
+
+TEST_END

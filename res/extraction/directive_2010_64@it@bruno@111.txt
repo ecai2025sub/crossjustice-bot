@@ -1,0 +1,30 @@
+FACTS
+
+proceeding_language(bruno, italian)
+
+FACTS_END
+
+TEST
+
+1. The proceedings will be conducted in italian.
+2. italian is the language used for the proceedings.
+3. The proceedings are carried out in italian.
+4. italian serves as the language for the proceedings.
+5. Proceedings will occur in the language of italian.
+6. The language employed for the proceedings is italian.
+7. italian is the designated language for the proceedings.
+8. The proceedings utilize italian as the language.
+9. The official language of the proceedings is italian.
+10. italian is the medium of language for the proceedings.
+11. The proceedings take place in italian.
+12. italian is the language in which the proceedings are held.
+13. The language chosen for the proceedings is italian.
+14. The proceedings are in the language of italian.
+15. italian will be the language of the proceedings.
+16. The proceedings are eitalianpressed in italian.
+17. italian is the language adopted for the proceedings.
+18. The proceedings will utilize italian as the language.
+19. italian is the language for the proceedings.
+20. The proceedings will be in the language of italian.
+
+TEST_END

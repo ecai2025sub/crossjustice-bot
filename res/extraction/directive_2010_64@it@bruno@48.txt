@@ -1,0 +1,30 @@
+FACTS
+
+person_document(bruno, europeanArrestWarrant)
+
+FACTS_END
+
+TEST
+
+1. The issued document is the European Arrest Warrant.
+2. This document is the European Arrest Warrant.
+3. The European Arrest Warrant has been issued as the document.
+4. The document released is the European Arrest Warrant.
+5. The European Arrest Warrant is the document that has been issued.
+6. This is the document known as the European Arrest Warrant.
+7. The document that has been provided is the European Arrest Warrant.
+8. The European Arrest Warrant is the document in question.
+9. The document referred to is the European Arrest Warrant.
+10. The document that was issued is the European Arrest Warrant.
+11. The formal document is the European Arrest Warrant.
+12. The document, known as the European Arrest Warrant, has been issued.
+13. The European Arrest Warrant is the document that was released.
+14. The document identified as the European Arrest Warrant has been issued.
+15. The document that has been dispatched is the European Arrest Warrant.
+16. The European Arrest Warrant is the document that has been sent.
+17. The document in circulation is the European Arrest Warrant.
+18. The document titled the European Arrest Warrant has been issued.
+19. The document recognized as the European Arrest Warrant is issued.
+20. The European Arrest Warrant is the document currently issued.
+
+TEST_END

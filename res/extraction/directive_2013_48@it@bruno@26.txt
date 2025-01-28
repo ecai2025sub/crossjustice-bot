@@ -1,0 +1,30 @@
+FACTS
+
+proceeding_matter(bruno, precautionary_measure)
+
+FACTS_END
+
+TEST
+
+1. The individual is subject to a precautionary measure that is not detention.
+2. A precautionary measure, other than detention, has been imposed on the person.
+3. The person is under a safety measure that differs from being detained.
+4. The individual is under a non-detention precautionary measure.
+5. The person is subject to a precautionary action that does not involve detention.
+6. A different precautionary measure, not involving detention, applies to the person.
+7. The individual is under a protective measure alternative to detention.
+8. The person is subject to a non-detention precautionary action.
+9. An alternative precautionary measure, other than detention, is in place for the person.
+10. The person is under a precaution that does not include being detained.
+11. The individual is under a measure of caution that isn't detention.
+12. The person is subject to a precautionary restriction other than detention.
+13. A safety measure, distinct from detention, is imposed on the individual.
+14. The person is under a preventive measure that excludes detention.
+15. The individual is under a non-detention safety measure.
+16. The person is subject to a precaution that does not involve detention.
+17. The individual is under a protective action that isn't detention.
+18. The person is under a precautionary condition different from detention.
+19. The individual is subject to a preventive measure other than detention.
+20. The person is under a safety precaution distinct from being detained.
+
+TEST_END

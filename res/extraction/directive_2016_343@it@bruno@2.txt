@@ -1,0 +1,30 @@
+FACTS
+
+proceeding_matter(bruno, interrogation)
+
+FACTS_END
+
+TEST
+
+1. The following issue pertains to an interrogation.
+2. The subsequent topic concerns an interrogation.
+3. The matter at hand includes an interrogation.
+4. The case in question involves an interrogation.
+5. The subject under discussion relates to an interrogation.
+6. The issue being addressed involves an interrogation.
+7. The next point involves an interrogation.
+8. The situation revolves around an interrogation.
+9. The topic at hand pertains to an interrogation.
+10. The matter being considered involves an interrogation.
+11. The subsequent issue concerns an interrogation.
+12. The proceeding topic revolves around an interrogation.
+13. The current situation involves an interrogation.
+14. The following matter includes an interrogation.
+15. The issue at hand concerns an interrogation.
+16. The matter in question relates to an interrogation.
+17. The subject matter pertains to an interrogation.
+18. The proceeding issue involves an interrogation.
+19. The situation at hand revolves around an interrogation.
+20. The subsequent subject concerns an interrogation.
+
+TEST_END

@@ -1,0 +1,29 @@
+FACTS
+
+person_document(bruno, notice_of_right_to_defence)
+
+FACTS_END
+
+TEST
+
+1. The individual is linked to a document that notifies them of their right to defense.
+2. The person has a document connected to them that outlines their right to defense.
+3. The individual is related to a document that details their right to defend themselves.
+4. There is a document associated with the person informing them about their right to defense.
+5. The person is tied to a document that explains their right to defense.
+6. A document concerning the person informs them of their defense rights.
+7. The individual has a connection to a document advising them of their right to defense.
+8. The person's relationship with a document provides information on their right to defense.
+9. The document linked to the individual informs them about their rights in defense.
+10. The individual is attached to a document that communicates their right to defense.
+11. The person is connected to a document notifying them about their defense rights.
+12. The individual is associated with a document that provides details on their right to defense.
+13. The person is involved with a document that informs them of their rights to defense.
+14. A document associated with the individual explains their right to defend themselves.
+15. The person is related to a document that communicates their right to defense.
+16. The individual is tied to a document that elaborates on their right to defense.
+17. The person's association with a document includes information on their defense rights.
+18. A document linked to the person outlines their rights to defense.
+19. The
+
+TEST_END

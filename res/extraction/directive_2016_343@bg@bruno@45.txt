@@ -1,0 +1,30 @@
+FACTS
+
+proceeding_matter(bruno, detention_on_remand)
+
+FACTS_END
+
+TEST
+
+1. The issue at hand concerns being held in custody pending trial.
+2. This case pertains to pre-trial detention.
+3. The subject involves being remanded into custody.
+4. The matter deals with holding a person in custody before their trial.
+5. This situation revolves around detention while awaiting trial.
+6. The topic involves being detained on a remand basis.
+7. The proceeding is related to being kept in custody before trial.
+8. This case involves the issue of pre-trial remand.
+9. The matter at hand is about detention pending a court hearing.
+10. This situation concerns holding an individual in custody until trial.
+11. The issue involves custody without bail before the trial.
+12. This proceeding relates to the remand of an individual in detention.
+13. The topic is about being held in detention awaiting a court decision.
+14. This matter involves incarceration until the trial commences.
+15. The subject pertains to being kept in custody on remand.
+16. The proceeding is about detention before the trial process begins.
+17. This case concerns the issue of being held in remand custody.
+18. The matter involves the concept of pre-trial custody.
+19. The situation deals with detention until the trial starts.
+20. This proceeding pertains to being remanded in custody.
+
+TEST_END

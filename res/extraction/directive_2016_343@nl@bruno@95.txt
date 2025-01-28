@@ -1,0 +1,30 @@
+FACTS
+
+person_status(bruno, witness)
+
+FACTS_END
+
+TEST
+
+1. The individual holds the position of a witness.
+2. The person is designated as a witness.
+3. The individual is recognized as a witness.
+4. The person serves in the role of a witness.
+5. The individual functions as a witness.
+6. The person possesses the title of a witness.
+7. The individual acts in the capacity of a witness.
+8. The person is classified as a witness.
+9. The individual is officially a witness.
+10. The person is identified as a witness.
+11. The individual has been assigned the status of a witness.
+12. The person is acknowledged as a witness.
+13. The individual is in the role of a witness.
+14. The person has been granted the position of a witness.
+15. The individual is tasked with the role of a witness.
+16. The person is recorded as a witness.
+17. The individual assumes the role of a witness.
+18. The person is in the status of a witness.
+19. The individual is listed as a witness.
+20. The person is regarded as a witness.
+
+TEST_END

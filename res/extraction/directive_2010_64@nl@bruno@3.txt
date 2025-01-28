@@ -1,0 +1,30 @@
+FACTS
+
+person_document(bruno, penal_order)
+
+FACTS_END
+
+TEST
+
+1. A penal order has been issued to the defendant.
+2. The defendant has received a penal order.
+3. A punitive order has been assigned to the defendant.
+4. The court has granted a penal order to the defendant.
+5. The defendant is subject to a penal order.
+6. A penal order has been delivered to the defendant.
+7. The defendant has been served with a penal order.
+8. A legal penal order has been given to the defendant.
+9. The defendant is under a penal order.
+10. The defendant has been issued a penal order.
+11. A penal order has been allotted to the defendant.
+12. The defendant has been awarded a penal order.
+13. A penal order has been provided to the defendant.
+14. The defendant has obtained a penal order.
+15. A penal order has been directed to the defendant.
+16. The defendant now holds a penal order.
+17. A penal order has been bestowed upon the defendant.
+18. The defendant has been assigned a penal order.
+19. A penal order has been imposed on the defendant.
+20. The defendant has had a penal order placed against them.
+
+TEST_END

@@ -1,0 +1,30 @@
+FACTS
+
+proceeding_matter(bruno, police_custody)
+
+FACTS_END
+
+TEST
+
+1. An order was given for the individual to be taken into police custody.
+2. Authorities issued a command for the person to be detained by the police.
+3. The person received an order for their arrest by law enforcement.
+4. A directive was issued for the individual to be placed under police custody.
+5. The individual was mandated to be apprehended by the police.
+6. The order was made for the person to be taken into police detention.
+7. The person was commanded to be arrested by the authorities.
+8. An instruction was issued for the individual to be taken by the police.
+9. The individual was served with an order for police custody.
+10. A warrant was issued for the person’s detention by the police.
+11. The order called for the individual to be taken into police custody.
+12. The authorities directed that the person be placed under arrest.
+13. The person was directed to be taken into custody by law enforcement.
+14. A mandate was issued for the individual's arrest by the police.
+15. The person was ordered to be detained by the police.
+16. The person was instructed to be taken into police custody.
+17. An arrest order was issued for the individual by the authorities.
+18. The individual was ordered to be placed in police custody.
+19. A command was issued for the person’s detention by law enforcement.
+20. The person was subject to an order for police arrest.
+
+TEST_END

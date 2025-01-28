@@ -1,0 +1,30 @@
+FACTS
+
+person_danger(bruno, liberty)
+
+FACTS_END
+
+TEST
+
+1. It is essential to prevent harm to an individual's freedom.
+2. Preserving a person's liberty is crucial to avoid any infringement.
+3. Avoiding any threat to someone's liberty is necessary.
+4. Safeguarding an individual's freedom from harm is needed.
+5. Protecting a person's liberty from damage is vital.
+6. It is important to ensure a person's freedom is not compromised.
+7. Steps should be taken to prevent damage to individual liberty.
+8. One must avoid causing harm to a person's freedom.
+9. There is a necessity to shield a person's liberty from damage.
+10. It is imperative to guard against damage to an individual's freedom.
+11. Ensuring a person's liberty is unharmed is a priority.
+12. It is crucial to avert any damage to someone's freedom.
+13. There is a need to protect a person's liberty from harm.
+14. Avoiding damage to an individual's freedom is necessary.
+15. It is important to prevent any compromise to a person's liberty.
+16. Ensuring that a person's freedom remains intact is essential.
+17. One should take care to avoid infringing on a person's liberty.
+18. Protecting a person's freedom from harm is necessary.
+19. It is vital to prevent any harm to an individual's liberty.
+20. Safeguarding someone's liberty from damage is important.
+
+TEST_END

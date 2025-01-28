@@ -1,0 +1,25 @@
+FACTS
+
+proceeding_type(anna, europeanArrestWarrant).
+person_status(anna, suspect).
+person_nationality(anna, poland).
+proceeding_country(anna, netherlands).
+person_status(anna, requested).
+proceeding_matter(anna, hearing).
+person_status(anna, detained).
+
+FACTS_END
+TEST
+
+1. Anna is a Polish citizen. She was detained in Netherlands after being named a suspect in a human trafficking investigation. The Netherlands police received an European Warrant for her arrest. There's an ongoing trial to that effect. She is currently out on bail but must report to the dutch authorities, who are carrying out the proceeding, for a formal hearing.
+2. Anna, a Polish citizen, was apprehended in the Netherlands as a suspect in a human trafficking investigation. The Dutch police acted on a European Arrest Warrant issued for her. A trial is ongoing, and while she is currently out on bail, she must report to the Dutch authorities for a formal hearing.
+3. In the Netherlands, Anna, a citizen of Poland, was detained after being identified as a suspect in a human trafficking case. Acting on a European Arrest Warrant, the Dutch police initiated proceedings. She is out on bail but required to appear before the Dutch authorities for a formal hearing.
+4. Anna, a Polish national, was arrested in the Netherlands on suspicion of involvement in human trafficking. The Dutch police received a European Arrest Warrant in her case. Although released on bail, she must comply with reporting requirements and attend a formal hearing as part of the ongoing trial.
+5. In the Netherlands, Anna, a citizen of Poland, was detained as a suspect in a human trafficking investigation. The authorities acted on a European Arrest Warrant, and the trial is in progress. She is currently free on bail but is obligated to report to the Dutch authorities for an official hearing.
+6. Anna, a Polish citizen, was taken into custody in the Netherlands under suspicion of human trafficking. The Dutch police executed a European Arrest Warrant against her. She is presently out on bail but must attend a formal hearing as part of the ongoing legal proceedings.
+7. Arrested in the Netherlands, Anna, a Polish national, was named a suspect in a human trafficking investigation. The case involves a European Arrest Warrant, and the trial is ongoing. She is not in custody but must report to the Dutch authorities for an official hearing.
+8. Anna, a citizen of Poland, was detained by the Dutch authorities in connection with a human trafficking investigation. The Netherlands police were acting on a European Arrest Warrant. She is currently out on bail and required to attend a formal hearing as the trial continues.
+9. In the Netherlands, Anna, a Polish national, was arrested after being accused of involvement in human trafficking. The Dutch police enforced a European Arrest Warrant for her. She has been released on bail but is required to appear before the authorities for a formal hearing.
+10. Anna, a Polish citizen, was detained in the Netherlands following accusations of human trafficking. Acting on a European Arrest Warrant, the Dutch police initiated an ongoing trial. She is out on bail and must report to the authorities in the Netherlands for a scheduled formal hearing.
+
+TEST_END

@@ -1,0 +1,29 @@
+FACTS
+
+person_document(bruno, notice_conclusion_investigation)
+
+FACTS_END
+
+TEST
+
+1. The individual is linked to a report announcing the investigation's conclusion.
+2. The person is connected to a document that communicates the end of the investigation.
+3. The individual is related to a notification about the investigation's closure.
+4. The person is attached to a document that declares the investigation has concluded.
+5. The individual is involved with a paper that informs of the investigation's end.
+6. The person is tied to a notice about the completion of the investigation.
+7. The individual is affiliated with a document that reports the investigation's conclusion.
+8. The person is linked with a notification detailing the investigation's outcome.
+9. The individual is associated with a report that marks the end of the investigation.
+10. The person is connected to a document that signifies the investigation is over.
+11. The individual is related to a paper that announces the conclusion of the investigation.
+12. The person is involved with a notice that communicates the investigation's completion.
+13. The individual is tied to a report that details the end of the investigation.
+14. The person is affiliated with a document that outlines the investigation's closure.
+15. The individual is linked to a notification that signifies the end of the investigation.
+16. The person is connected to a notice about the investigation having concluded.
+17. The individual is associated with a paper that reports the completion of the investigation.
+18. The person is tied to a document that announces the closure of the investigation.
+19. The individual is linked with a
+
+TEST_END

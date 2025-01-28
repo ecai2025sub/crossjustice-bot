@@ -1,0 +1,30 @@
+FACTS
+
+person_document(bruno, judgement)
+
+FACTS_END
+
+TEST
+
+1. The document released is a court ruling.
+2. The issued paperwork is a legal decision.
+3. The document provided represents a verdict.
+4. The paperwork distributed is a judgment.
+5. The document handed out is a court decision.
+6. The issued record is a legal judgment.
+7. The document is a formal adjudication.
+8. The paperwork issued constitutes a judicial decision.
+9. The document released is a legal verdict.
+10. The issued document is a ruling.
+11. The paperwork provided is a formal judgment.
+12. The document granted is a court verdict.
+13. The issued paperwork represents a judgment.
+14. The document is an official judicial decision.
+15. The paperwork released is a legal ruling.
+16. The document distributed is a formal verdict.
+17. The issued document serves as a court judgment.
+18. The paperwork handed out is a legal decision.
+19. The document given is a judicial ruling.
+20. The document issued represents a legal judgment.
+
+TEST_END

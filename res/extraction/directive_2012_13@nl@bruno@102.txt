@@ -1,0 +1,30 @@
+FACTS
+
+person_request_submitted(bruno, medical_assistance)
+
+FACTS_END
+
+TEST
+
+1. The individual has filed a request for medical help.
+2. A medical assistance request has been submitted by the person.
+3. The person has put in a request for healthcare support.
+4. A request for medical aid has been made by the individual.
+5. The individual has made a formal request for medical services.
+6. The person has officially asked for medical assistance.
+7. Medical help has been requested by the person.
+8. The individual has sought medical support through a request.
+9. A request for healthcare assistance has been submitted by the person.
+10. The person has initiated a request for medical care.
+11. The individual has lodged a request for medical attention.
+12. Medical services have been requested by the person.
+13. The person has appealed for medical aid.
+14. The individual has requested medical help.
+15. The person has asked for healthcare assistance.
+16. A request for medical support has been made by the individual.
+17. The individual has applied for medical aid.
+18. The person has requested assistance with medical needs.
+19. Medical assistance has been requested by the individual.
+20. The individual has placed a request for medical help.
+
+TEST_END

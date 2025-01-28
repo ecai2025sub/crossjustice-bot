@@ -1,0 +1,30 @@
+FACTS
+
+proceeding_matter(bruno, evidence_gathering_act)
+
+FACTS_END
+
+TEST
+
+1. The proceedings relate to any act of collecting evidence.
+2. The case involves any act of gathering evidence.
+3. The proceedings pertain to any activity of evidence collection.
+4. The proceedings address any evidence acquisition action.
+5. The case deals with any act of obtaining evidence.
+6. The proceedings encompass any act of evidence gathering.
+7. The case covers any action related to collecting evidence.
+8. The proceedings involve any evidence collection practice.
+9. The proceedings relate to any action of acquiring evidence.
+10. The case pertains to any act involving evidence collection.
+11. The proceedings focus on any act concerning evidence gathering.
+12. The case concerns any action of gathering evidence.
+13. The proceedings include any act of obtaining evidence.
+14. The case includes any activity related to collecting evidence.
+15. The proceedings regard any act related to evidence acquisition.
+16. The case addresses any evidence gathering activity.
+17. The proceedings relate to any evidence acquisition process.
+18. The case involves any action pertaining to gathering evidence.
+19. The proceedings deal with any evidence gathering procedure.
+20. The case focuses on any act of acquiring evidence.
+
+TEST_END

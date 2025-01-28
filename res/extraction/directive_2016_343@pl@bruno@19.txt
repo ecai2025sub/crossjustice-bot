@@ -1,0 +1,30 @@
+FACTS
+
+proceeding_matter(bruno, irresolvable_doubts)
+
+FACTS_END
+
+TEST
+
+1. The issue at hand is plagued by unsolvable uncertainties.
+2. The current situation is fraught with doubts that cannot be resolved.
+3. The matter in question is surrounded by doubts that defy resolution.
+4. The ongoing issue involves uncertainties that remain unresolved.
+5. The case involves uncertainties that cannot be resolved.
+6. The subject involves doubts that cannot be resolved.
+7. The situation at hand involves doubts that cannot be resolved.
+8. The matter at hand is marked by doubts that can't be resolved.
+9. The proceeding issue is entangled with unresolved doubts.
+10. The situation involves uncertainties that resist resolution.
+11. The topic is characterized by uncertainties that cannot be resolved.
+12. The subject is riddled with doubts that are beyond resolution.
+13. The ongoing matter is beset with doubts that remain unresolved.
+14. The proceeding involves doubts that resist resolution.
+15. The issue is imbued with doubts that remain unresolved.
+16. The case is marked by uncertainties that defy resolution.
+17. The matter involves doubts that are insurmountable.
+18. The current issue contains doubts that remain unresolved.
+19. The situation is filled with doubts that are beyond resolution.
+20. The case deals with uncertainties that cannot be resolved.
+
+TEST_END

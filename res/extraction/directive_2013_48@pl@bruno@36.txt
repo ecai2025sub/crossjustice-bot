@@ -1,0 +1,30 @@
+FACTS
+
+person_nationality(bruno, none)
+
+FACTS_END
+
+TEST
+
+1. Bruno lacks citizenship.  
+2. Citizenship has not been granted to Bruno.  
+3. Bruno is without a citizenship status.  
+4. Bruno is not a citizen.  
+5. Bruno has no citizenship.  
+6. Bruno is not in possession of citizenship.  
+7. Citizenship is absent for Bruno.  
+8. Bruno is not recognized as a citizen.  
+9. Bruno does not hold citizenship.  
+10. Bruno has not acquired a citizenship.  
+11. Bruno is devoid of citizenship.  
+12. Citizenship is not held by Bruno.  
+13. Bruno is without a nationality.  
+14. Bruno does not possess citizenship.  
+15. Bruno is not assigned any citizenship.  
+16. Bruno is not affiliated with any citizenship.  
+17. Bruno has no citizenship status.  
+18. Bruno remains uncitizenized.  
+19. Bruno is not a legal citizen.  
+20. Citizenship is not attributed to Bruno.  
+
+TEST_END

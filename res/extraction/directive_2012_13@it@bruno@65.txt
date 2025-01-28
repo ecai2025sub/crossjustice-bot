@@ -1,0 +1,30 @@
+FACTS
+
+physical_presence_required(bruno, lawyer)
+
+FACTS_END
+
+TEST
+
+1. The individual must have a lawyer physically present.
+2. A lawyer needs to be there in person for the individual.
+3. The person requires the physical attendance of a lawyer.
+4. It is necessary for a lawyer to be present physically for the individual.
+5. The individual needs a lawyer to be physically present.
+6. A lawyer's in-person presence is necessary for the person.
+7. The person needs a lawyer to attend in person.
+8. The individual requires an attorney to be there physically.
+9. A lawyer must be physically there for the person.
+10. The presence of a lawyer in person is required for the individual.
+11. The individual must have an attorney present in person.
+12. A physical presence of a lawyer is necessary for the person.
+13. The person requires a lawyer's physical presence.
+14. A lawyer needs to be physically present for the person.
+15. The individual needs the physical attendance of an attorney.
+16. It is necessary for an attorney to be physically present for the person.
+17. The person must have a lawyer there physically.
+18. A lawyer's physical presence is needed for the individual.
+19. The individual's requirement includes a lawyer’s presence in person.
+20. The physical attendance of a lawyer is necessary for the individual.
+
+TEST_END

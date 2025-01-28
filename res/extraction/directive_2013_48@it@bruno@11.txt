@@ -1,0 +1,30 @@
+FACTS
+
+proceeding_matter(bruno, precautionary_detention)
+
+FACTS_END
+
+TEST
+
+1. The case involves preventive detention.
+2. The proceedings are about detention as a precautionary measure.
+3. The legal process pertains to precautionary confinement.
+4. The focus of the proceedings is on preemptive detention.
+5. The case addresses the issue of precautionary custody.
+6. The proceedings deal with the matter of preventive incarceration.
+7. The legal matter involves the use of precautionary detention.
+8. The process is centered around detention for precautionary purposes.
+9. The proceedings relate to the subject of preventive custody.
+10. The case examines the topic of precautionary imprisonment.
+11. The legal proceedings concern the use of detention for precautionary reasons.
+12. The case involves the issue of pre-trial detention.
+13. The focus of the legal proceedings is on precautionary incarceration.
+14. The subject of the proceedings is preventive detention.
+15. The legal case deals with the matter of precautionary holding.
+16. The proceedings revolve around the concept of preemptive custody.
+17. The legal discussion is about detention as a precautionary step.
+18. The case pertains to the issue of preventive holding.
+19. The proceedings are centered on the topic of precautionary detention.
+20. The legal matter concerns the practice of preemptive imprisonment.
+
+TEST_END

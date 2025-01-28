@@ -290,7 +290,7 @@ def prettify_prolog(input):
       Why do You Have Them: inference steps and reasoning that led to the the rights. Use all the Prolog terms in the explanation explicitly referencing the original Prolog when needed.
 
       Use enumerations in the 'What Rights do You Have' and 'Why do You Have Them' sections if needed.
-    """, temperature=0.01)
+    """, temperature=0.3)
 
   for _, v in input.items():
     for _, r in v.items():
@@ -369,7 +369,7 @@ def main():
       st.session_state.memory = ConversationSummaryBufferMemory(llm=ChatGroq(
           groq_api_key='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',
           model_name="llama3-70b-8192",
-          temperature=0.5
+          temperature=0.3
       ), max_token_limit=2000, memory_key="my_chat", return_messages=True)
 
     dirs = ["directive_2010_64", "directive_2012_13", "directive_2016_343", "directive_2013_48"]

@@ -1,0 +1,30 @@
+FACTS
+
+person_nominate(bruno, x)
+
+FACTS_END
+
+TEST
+
+1. The individual wishes to appoint X as a third-party contact.
+2. The person desires to designate X as an additional communicator.
+3. They want to select X to act as a third person for communication.
+4. The individual intends to propose X as a tertiary contact for communication.
+5. The person is eager to name X as an intermediary communicator.
+6. They would like to suggest X as an auxiliary communication contact.
+7. The individual aims to nominate X as a third-party liaison.
+8. The person prefers to assign X as an additional point of contact.
+9. They wish to put forward X as a third communicator.
+10. The individual wants to choose X as a third-party communication representative.
+11. The person plans to recommend X as an extra communication link.
+12. They would like to endorse X as a third person for communications.
+13. The individual aspires to establish X as a supplemental communication contact.
+14. The person is inclined to elect X as another communication channel.
+15. They seek to appoint X as a third-party communication assistant.
+16. The individual would like to identify X as a third person for communication purposes.
+17. The person is interested in selecting X as an additional communication intermediary.
+18. They wish to nominate X to serve as a third-party communication contact.
+19. The individual wants to designate X as a supporting communicator.
+20. The person intends to assign X as an alternative communication representative.
+
+TEST_END

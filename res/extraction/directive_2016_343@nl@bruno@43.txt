@@ -1,0 +1,30 @@
+FACTS
+
+proceeding_matter(bruno, questioning)
+
+FACTS_END
+
+TEST
+
+1. The upcoming issue pertains to the interrogation of the defendant.
+2. The current matter involves the defendant being questioned.
+3. The case at hand concerns the questioning of the defendant.
+4. The situation involves an inquiry directed at the defendant.
+5. The issue involves questioning the defendant.
+6. The matter deals with the defendant's interrogation.
+7. The focus is on questioning the defendant.
+8. The present situation pertains to interrogating the defendant.
+9. The defendant is to be questioned in the ongoing matter.
+10. The proceeding involves an inquiry with the defendant.
+11. The central issue involves interrogating the defendant.
+12. The matter at hand involves questioning the defendant.
+13. The situation concerns the questioning of the defendant.
+14. The current case involves an inquiry involving the defendant.
+15. The matter pertains to the defendant being questioned.
+16. The focus of the proceeding is the questioning of the defendant.
+17. The subject involves the interrogation of the defendant.
+18. The proceeding concerns questioning the defendant.
+19. The defendant's questioning is central to the matter.
+20. The case involves interrogation directed at the defendant.
+
+TEST_END

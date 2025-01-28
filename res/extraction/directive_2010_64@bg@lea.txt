@@ -1,0 +1,25 @@
+FACTS
+
+person_speaks(lea, french).
+person_status(lea, accused).
+proceeding_language(lea, bulgarian).
+person_document(lea, charge).
+person_status(lea, deprived_of_liberty).
+person_document(lea, remand_measure).
+proceeding_matter(lea, interrogation).
+
+FACTS_END
+TEST
+
+1. Lea, a French tourist in Bulgaria, who only speaks french, is accused of stealing. The Bulgarian court has formally charged her and imposed a remand measure (house arrest) while the investigation continues. She has also been interrogated.
+2. Lea, a visitor from France traveling in Bulgaria, is accused of theft. Unable to speak any language other than French, she faces formal charges in a Bulgarian court, which has placed her under house arrest as a precautionary measure during the ongoing investigation. She has also undergone questioning.
+3. In Bulgaria, a French tourist named Lea, who speaks only French, is charged with stealing accusation. The Bulgarian court has issued an official accusation and ordered her to remain under house arrest while the inquiry proceeds. Additionally, she has been subjected to interrogation.
+4. Lea, a French national on holiday in Bulgaria, has been accused of committing theft. Speaking solely French, she has been formally charged by the Bulgarian judiciary, which has mandated house arrest as the investigation unfolds. She has also been questioned by the authorities.
+5. While visiting Bulgaria, Lea, a French-speaking tourist from France, has been accused of theft. The Bulgarian court has formally charged her and decided to confine her to house arrest pending the investigation. She has also been interrogated as part of the case.
+6. Lea, a French traveler in Bulgaria with no knowledge of other languages besides French, has been accused of theft. The Bulgarian legal system has formally pressed charges against her and placed her under house arrest as they continue their investigation. She has already faced questioning.
+7. In Bulgaria, Lea, a tourist from France who speaks exclusively French, is facing accusations of theft. The Bulgarian court has officially charged her and enforced a remand measure, confining her to house arrest while the inquiry is ongoing. She has also been questioned by the authorities.
+8. A French tourist named Lea, who only communicates in French, is accused of theft while in Bulgaria. Bulgaria's judiciary has formally charged her and ordered her to remain under house arrest while the investigation continues. She has also been interrogated during the proceedings.
+9. Lea, a French-speaking traveler visiting Bulgaria, stands accused of stealing. The Bulgarian court has brought formal charges against her and imposed house arrest as part of the investigation. She has also undergone questioning regarding the matter.
+10. While in Bulgaria, Lea, a tourist from France who speaks only French, has been accused of theft. The Bulgarian judicial system has officially charged her and implemented house arrest as a precaution during the ongoing inquiry. She has also faced interrogation.
+
+TEST_END

@@ -1,0 +1,28 @@
+FACTS
+
+person_status(bruno, raise_suspicion)
+
+FACTS_END
+
+TEST
+
+1. During the interview, the individual originally questioned as a witness turns into a suspect.
+2. The interview reveals that the person initially interviewed as a witness is now considered a suspect.
+3. Initially a witness, the person transforms into a suspect throughout the interrogation.
+4. As the interview progresses, the witness becomes regarded as a suspect.
+5. The individual starts as a witness but becomes a suspect during the course of the interview.
+6. Throughout the interview, the person first approached as a witness turns into a suspect.
+7. The person, who began as a witness, ends up being considered a suspect during the interview.
+8. Initially questioned as a witness, the individual becomes a suspect by the end of the interrogation.
+9. The witness gradually becomes a suspect as the interview unfolds.
+10. Over the course of the interview, the initial witness is turned into a suspect.
+11. The person initially considered a witness is recognized as a suspect during the interview.
+12. As the interview develops, the witness transitions into a suspect.
+13. The person, first questioned as a witness, becomes a suspect in the middle of the interview.
+14. During the interview, the witness's status shifts, and they become a suspect.
+15. The interview process changes the status of the person from witness to suspect.
+16. Initially regarded as a witness, the person becomes a suspect during the interview.
+17. Through the interview, the person originally a witness ends up as a suspect.
+18. The
+
+TEST_END

@@ -1,0 +1,30 @@
+FACTS
+
+person_document(bruno, notice_of_investigation)
+
+FACTS_END
+
+TEST
+
+1. The individual is linked to an investigation notice document.  
+2. The person is connected to a document regarding a notice of investigation.  
+3. The individual is involved with a document pertaining to an investigation notice.  
+4. The person has ties to a document related to a notice of investigation.  
+5. The person is affiliated with a document concerning an investigation notice.  
+6. The individual is related to a notice of investigation document.  
+7. The person is implicated in a document associated with an investigation notice.  
+8. The individual has an association with a document for a notice of investigation.  
+9. The person is engaged with a notice of investigation document.  
+10. The individual is attached to a document that is a notice of investigation.  
+11. The person is named in a document linked to an investigation notice.  
+12. The individual is referenced in a notice of investigation document.  
+13. The person is part of a document involving a notice of investigation.  
+14. The individual features in a document related to an investigation notice.  
+15. The person is mentioned in a document regarding a notice of investigation.  
+16. The individual is included in a document associated with a notice of investigation.  
+17. The person is documented in connection with an investigation notice.  
+18. The individual is specified in a notice of investigation document.  
+19. The person is listed in a document that concerns an investigation notice.  
+20. The individual is cited in
+
+TEST_END

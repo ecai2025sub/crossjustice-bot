@@ -1,0 +1,30 @@
+FACTS
+
+proceeding_matter(bruno, pretrial_detention)
+
+FACTS_END
+
+TEST
+
+1. The individual received an order for pre-trial detention.
+2. An order was issued for the person to be placed in pre-trial detention.
+3. The person was commanded to enter pre-trial detention.
+4. Pre-trial detention was ordered for the person.
+5. The individual was ordered to be held in pre-trial detention.
+6. A directive was given to place the person in pre-trial detention.
+7. The person was subjected to an order for pre-trial detention.
+8. The individual was mandated to undergo pre-trial detention.
+9. An order for pre-trial detention was given to the person.
+10. The person was instructed to be taken into pre-trial custody.
+11. The person was required by order to enter pre-trial detention.
+12. An order was issued directing the person to pre-trial detention.
+13. The person was ordered into pre-trial detention.
+14. The person was compelled to be placed in pre-trial detention.
+15. The person was ordered to be held in custody before trial.
+16. An order was delivered for the person's pre-trial detention.
+17. The person received instructions to enter pre-trial detention.
+18. The individual was taken into pre-trial detention by order.
+19. The person was detained pre-trial by official order.
+20. The court ordered the person to be held in pre-trial detention.
+
+TEST_END

@@ -1,0 +1,22 @@
+FACTS
+
+person_status(carlos, accused)
+person_status(carlos, deprived_of_liberty)
+person_nationality(carlos, spain).
+proceeding_country(carlos, poland).
+
+FACTS_END
+TEST
+
+1. Carlos is a Spanish citizen. He was arrested in Poland by the police. He is accused of being part of a smuggling ring. The proceedings are taking place in Poland. Carlos is currently in custody and has been assigned a public defender since he cannot afford a private lawyer.
+2. Carlos, a Spanish national, was arrested by the police in Poland on accusations of involvement in a smuggling ring. The legal proceedings are being conducted in Poland. Currently in custody, Carlos has been appointed a public defender due to his inability to afford a private lawyer.
+3. In Poland, Carlos, a citizen of Spain, was taken into custody by the police and accused of being part of a smuggling operation. The proceedings are taking place in Poland. Since Carlos cannot afford a private lawyer, he has been assigned a public defender.
+4. Carlos, a Spanish citizen, was apprehended by Polish authorities and accused of being involved in a smuggling ring. The case is being handled in Poland. He remains in custody and has been assigned a public defender, as he is unable to pay for a private lawyer.
+5. Arrested in Poland, Carlos, a citizen of Spain, faces accusations of participating in a smuggling network. The trial is proceeding in Poland. Carlos is currently in custody and has been provided with a public defender since he cannot afford a private attorney.
+6. Carlos, a Spanish national, was detained by the Polish police on charges of being part of a smuggling ring. The proceedings are occurring in Poland. He is in custody and has been assigned a public defender because he cannot afford a private lawyer.
+7. In Poland, Carlos, a citizen of Spain, was arrested under suspicion of involvement in a smuggling operation. The case is being prosecuted in Poland. He is being held in custody and has received a public defender due to his financial inability to hire a private lawyer.
+8. Carlos, a Spanish citizen, was arrested by the Polish authorities for his alleged involvement in a smuggling ring. The legal process is taking place in Poland. While in custody, Carlos has been assigned a public defender, as he cannot afford a private lawyer.
+9. Arrested by the police in Poland, Carlos, a Spanish citizen, is accused of participating in a smuggling ring. The proceedings are being conducted in Poland. He remains in custody and has been appointed a public defender, as he lacks the means to hire a private attorney.
+10. In Poland, Carlos, a citizen of Spain, was taken into custody by the police on charges of smuggling. The legal proceedings are happening in Poland. Since Carlos cannot afford to hire a private lawyer, he has been assigned a public defender.
+
+TEST_END

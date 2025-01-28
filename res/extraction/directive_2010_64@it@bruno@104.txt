@@ -1,0 +1,29 @@
+FACTS
+
+person_request_submitted(bruno, essential_document)
+
+FACTS_END
+
+TEST
+
+1. The individual has filed a request for the document to be deemed essential.
+2. A request has been made by the person to classify the document as essential.
+3. The person has put forward a request for the document to be recognized as essential.
+4. The individual has asked for the document to be regarded as essential.
+5. A request has been submitted by the person to treat the document as essential.
+6. The person has requested that the document be considered essential.
+7. The individual has lodged a request to have the document marked as essential.
+8. The person has made a request to label the document as essential.
+9. The individual has sent in a request for the document to be viewed as essential.
+10. A request has been submitted by the person for the document to be seen as essential.
+11. The person has applied for the document to be identified as essential.
+12. The individual has requested the document to be acknowledged as essential.
+13. The person has initiated a request for the document's essential status.
+14. A request has been filed by the person for the document to be perceived as essential.
+15. The individual has presented a request to designate the document as essential.
+16. The person has submitted a petition for the document to be treated as essential.
+17. A request has been issued by the individual for the document to hold essential status.
+18. The person has launched a request for the document's designation as essential.
+19. The individual has forwarded a
+
+TEST_END

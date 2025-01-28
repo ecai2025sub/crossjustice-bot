@@ -1,0 +1,30 @@
+FACTS
+
+person_event(bruno, cannot_be_located)
+
+FACTS_END
+
+TEST
+
+1. The individual cannot be found.
+2. The person is untraceable.
+3. The individual is missing.
+4. The person is nowhere to be seen.
+5. The individual is not detectable.
+6. The person is not present.
+7. The individual cannot be tracked down.
+8. The person is unavailable.
+9. The individual is out of sight.
+10. The person is not discoverable.
+11. The individual cannot be pinpointed.
+12. The person is off the radar.
+13. The individual is lost.
+14. The person is absent.
+15. The individual is nowhere to be located.
+16. The person is unlocatable.
+17. The individual has vanished.
+18. The person cannot be identified.
+19. The individual is not to be found.
+20. The person is not within reach.
+
+TEST_END

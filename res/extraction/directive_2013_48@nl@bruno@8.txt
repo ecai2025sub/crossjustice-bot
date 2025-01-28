@@ -1,0 +1,30 @@
+FACTS
+
+person_request_submitted(bruno, lawyer_participation)
+
+FACTS_END
+
+TEST
+
+1. PersonId has asked for a lawyer to be involved in their proceedings.
+2. PersonId has sought the involvement of legal counsel in their proceedings.
+3. PersonId has called for a lawyer to join their proceedings.
+4. PersonId has requested that a lawyer participate in their proceedings.
+5. PersonId has expressed the need for a lawyer's participation in their proceedings.
+6. PersonId has required a lawyer to take part in their proceedings.
+7. PersonId has insisted on having a lawyer present during their proceedings.
+8. PersonId has petitioned for the inclusion of a lawyer in their proceedings.
+9. PersonId has applied for legal representation in their proceedings.
+10. PersonId has demanded the presence of a lawyer in their proceedings.
+11. PersonId has opted for a lawyer to be part of their proceedings.
+12. PersonId has indicated the desire for a lawyer to be involved in their proceedings.
+13. PersonId has urged for a lawyer's involvement in their proceedings.
+14. PersonId has appealed for a lawyer to participate in their proceedings.
+15. PersonId has requested legal assistance for their proceedings.
+16. PersonId has solicited the participation of a lawyer in their proceedings.
+17. PersonId has pressed for a lawyer to be included in their proceedings.
+18. PersonId has expressed a preference for having a lawyer during their proceedings.
+19. PersonId has initiated a request for legal counsel in their proceedings.
+20. PersonId has communicated the need for a
+
+TEST_END

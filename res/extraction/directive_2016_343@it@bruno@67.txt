@@ -1,0 +1,30 @@
+FACTS
+
+proceeding_matter(bruno, investigation)
+
+FACTS_END
+
+TEST
+
+1. The subject at hand pertains to an inquiry.
+2. The issue under discussion includes a probe.
+3. The topic in question involves a thorough investigation.
+4. The matter being addressed relates to an examination.
+5. The scenario involves a detailed investigation.
+6. The proceeding involves a formal inquiry.
+7. The current issue entails an investigation.
+8. The case at hand requires an investigation.
+9. The matter in consideration is under investigation.
+10. The subject involves a formal examination.
+11. The proceeding is linked to an investigation.
+12. The situation at hand concerns an investigation.
+13. The issue involves a detailed inquiry.
+14. The topic involves a comprehensive investigation.
+15. The case involves an investigation process.
+16. The matter at hand concerns a formal probe.
+17. The proceeding topic involves an investigation.
+18. The situation concerns an ongoing investigation.
+19. The subject matter involves an investigative process.
+20. The matter in question includes an investigation.
+
+TEST_END

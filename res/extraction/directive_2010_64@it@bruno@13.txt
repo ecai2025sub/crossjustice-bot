@@ -1,0 +1,29 @@
+FACTS
+
+person_status(bruno, accused)
+
+FACTS_END
+
+TEST
+
+1. The individual has been formally accused.
+2. The individual faces accusations.
+4. The person stands accused.
+5. The individual is under suspicion.
+6. The person is charged with an offense.
+7. The individual is implicated.
+8. The person is facing allegations.
+9. The individual has been accused.
+10. The person is a defendant.
+11. The individual is subject to accusations.
+12. The person is being accused.
+13. The individual has had charges brought against them.
+14. The person is involved in allegations.
+15. The individual is under indictment.
+16. The person is being charged.
+17. The individual is named in the accusation.
+18. The person is facing charges.
+19. The individual is being held accountable.
+20. The person is under legal scrutiny.
+
+TEST_END

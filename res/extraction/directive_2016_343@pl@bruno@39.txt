@@ -1,0 +1,30 @@
+FACTS
+
+proceeding_matter(bruno, evidentiary_procedure)
+
+FACTS_END
+
+TEST
+
+1. The case in question entails an evidentiary process.
+2. The current matter includes a procedure for collecting evidence.
+3. The issue at hand involves a procedure related to evidence.
+4. The case in question entails an evidentiary process.
+5. The current matter includes a procedure for collecting evidence.
+6. The matter under discussion involves a process for handling evidence.
+7. The topic under consideration involves a procedure for evidence assessment.
+8. The subject matter involves a protocol for managing evidence.
+9. The matter at hand relates to an evidentiary protocol.
+10. The issue involves a procedure of evidence examination.
+11. The proceeding matter is about handling evidence in a formal procedure.
+12. The matter involves a method for dealing with evidence.
+13. The case revolves around a process for evaluating evidence.
+14. The topic deals with a procedure concerning evidence management.
+15. The following case involves a procedure for evidence review.
+16. The issue pertains to a formal process for evidence handling.
+17. The proceeding involves a protocol for evidence-related activities.
+18. The matter concerns an official process involving evidence.
+19. The subject involves a systematic approach to evidence.
+20. The issue under deliberation involves a procedure for evidence evaluation.
+
+TEST_END

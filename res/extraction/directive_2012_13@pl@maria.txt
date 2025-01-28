@@ -1,0 +1,22 @@
+FACTS
+
+person_status(maria, requested).
+person_status(maria, arrested).
+proceeding_type(maria, europeanArrestWarrant).
+person_status(maria, deprived_of_liberty).
+
+FACTS_END
+TEST
+
+1. Maria has been arrested for fraud in Poland. She was already subject to a previous european Arrest Warrant, and is arguing against extradiction.
+2. Maria has been detained in Poland on charges of fraud. She was previously the subject of a European Arrest Warrant and is now contesting her extradition.
+3. In Poland, Maria was arrested for fraud. Already under a prior European Arrest Warrant, she is fighting against being extradited.
+4. Maria, who has been apprehended in Poland for fraud, was previously issued a European Arrest Warrant. She is arguing against her extradition.
+5. Arrested in Poland on fraud charges, Maria is challenging her extradition. She was already the subject of an earlier European Arrest Warrant.
+6. Maria has been taken into custody in Poland for alleged fraud. Having been previously issued a European Arrest Warrant, she is opposing extradition.
+7. In Poland, Maria was detained for fraud and is disputing extradition. She had already been subject to a prior European Arrest Warrant.
+8. Maria, arrested in Poland on allegations of fraud, is resisting extradition. She had been previously named in a European Arrest Warrant.
+9. Taken into custody in Poland for fraud, Maria is contesting extradition. She was already the target of an earlier European Arrest Warrant.
+10. Maria, accused of fraud and arrested in Poland, is arguing against extradition. She had previously been issued a European Arrest Warrant.
+
+TEST_END

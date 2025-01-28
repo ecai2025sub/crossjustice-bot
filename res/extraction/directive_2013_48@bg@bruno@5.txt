@@ -1,0 +1,30 @@
+FACTS
+
+person_status(bruno, detained)
+
+FACTS_END
+
+TEST
+
+1. The individual has been detained.
+2. The person is under detention.
+3. The individual has been held in custody.
+4. The person has been apprehended and put in detention.
+5. The individual is being detained.
+6. The person is in detention.
+7. The individual has been taken in.
+8. The person is currently in custody.
+9. The individual has been captured.
+10. The person has been placed under arrest.
+11. The individual is being held.
+12. The person has been secured.
+13. The individual has been restrained.
+14. The person is now detained.
+15. The individual is in police custody.
+16. The person has been taken by authorities.
+17. The individual has been locked up.
+18. The person has been confined.
+19. The individual has been seized.
+20. The person has been put under detention.
+
+TEST_END

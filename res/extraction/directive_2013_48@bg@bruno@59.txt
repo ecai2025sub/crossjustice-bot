@@ -1,0 +1,30 @@
+FACTS
+
+proceeding_matter(bruno, breach_of_rights)
+
+FACTS_END
+
+TEST
+
+1. The case involves a violation of the defendant's rights.
+2. The legal action pertains to an infringement on the defendant's rights.
+3. The hearings are about a breach of the defendant's rights.
+4. The proceedings address an infringement of the defendant's rights.
+5. The case revolves around a violation of the rights of the defendant.
+6. The legal matter concerns an encroachment on the defendant's rights.
+7. The trial focuses on a breach of the rights belonging to the defendant.
+8. The lawsuit is centered on an infringement of the rights of the defendant.
+9. The judicial proceedings involve a violation of the defendant's rights.
+10. The court case pertains to a breach of rights concerning the defendant.
+11. The legal proceedings are about an infringement of the defendant's rights.
+12. The matter at hand deals with a violation of the rights of the defendant.
+13. The case in question addresses a breach of the defendant's rights.
+14. The legal dispute concerns an infringement on the rights of the defendant.
+15. The proceedings involve an alleged violation of the defendant's rights.
+16. The court is addressing a breach concerning the defendant's rights.
+17. The legal case involves an infringement upon the rights of the defendant.
+18. The hearings concern an alleged violation of the rights of the defendant.
+19. The judicial matter revolves around a breach of the defendant’s rights.
+20. The legal action addresses an encroachment on the rights of the defendant.
+
+TEST_END

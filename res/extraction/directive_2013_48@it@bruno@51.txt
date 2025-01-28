@@ -1,0 +1,30 @@
+FACTS
+
+person_status(bruno, deprived_of_liberty)
+
+FACTS_END
+
+TEST
+
+1. The individual has lost their freedom.
+2. Liberty has been taken away from the person.
+3. The person cannot be free to move around.
+4. The individual has been stripped of their liberty.
+5. Freedom has been denied to the person.
+6. The person has been confined.
+7. The individual is no longer free.
+8. The person’s liberty has been removed.
+9. The individual has been detained.
+10. The person has had their freedom taken.
+11. The person is now in custody.
+12. The individual has been incarcerated.
+13. Freedom has been revoked from the person.
+14. The person is deprived of freedom.
+15. The person’s liberty has been restricted.
+16. The individual is under confinement.
+17. The person’s freedom has been curtailed.
+18. The individual has been held captive.
+19. The person has been subjected to detention.
+20. The individual has been placed under restraint.
+
+TEST_END

@@ -1,0 +1,30 @@
+FACTS
+
+proceeding_matter(bruno, detention)
+
+FACTS_END
+
+TEST
+
+1. The case involves matters of detention.
+2. The focus of the proceedings is on detention.
+3. The issue at hand is related to detention.
+4. These proceedings address detention.
+5. The subject of the proceedings is detention.
+6. The legal proceedings pertain to detention.
+7. Detention is the central topic of these proceedings.
+8. The proceedings are centered around detention.
+9. These matters involve issues of detention.
+10. The proceedings deal with detention.
+11. Detention is the key concern in these proceedings.
+12. The focus here is on detention.
+13. The proceedings revolve around the topic of detention.
+14. The primary concern of these proceedings is detention.
+15. The proceedings are about detention.
+16. These proceedings have a detention-related focus.
+17. The topic of these proceedings is detention.
+18. The proceedings are related to matters of detention.
+19. The main issue in these proceedings is detention.
+20. These legal proceedings are concerned with detention.
+
+TEST_END

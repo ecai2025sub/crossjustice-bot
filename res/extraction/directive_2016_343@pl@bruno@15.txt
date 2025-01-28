@@ -1,0 +1,27 @@
+FACTS
+
+person_danger(bruno, inhibit_explanations_coaccused)
+
+FACTS_END
+
+TEST
+
+1. The individual presents a risk by preventing co-defendants from providing explanations.
+2. This person poses a threat by obstructing co-accused parties from giving their accounts.
+3. The person is a hazard due to blocking co-accused individuals from offering explanations.
+4. This individual endangers others by stopping co-defendants from explaining themselves.
+5. The person creates a danger by hindering co-accused from sharing their explanations.
+6. This person poses a danger by interfering with co-defendants' ability to explain.
+7. The individual is dangerous as they prevent co-accused individuals from giving explanations.
+8. This person presents a risk by restricting co-defendants from making explanations.
+9. The person threatens safety by disallowing co-accused from providing their explanations.
+10. This individual endangers the situation by obstructing co-defendants' explanations.
+11. The person is a threat because they inhibit co-accused from presenting explanations.
+12. This individual poses a danger by thwarting co-defendants from explaining their actions.
+13. The person is risky as they constrain co-accused individuals from offering their accounts.
+14. This person presents a hazard by preventing co-defendants from sharing explanations.
+15. The individual is a danger by restricting co-accused parties from expressing their explanations.
+16. This person creates a threat by blocking co-defendants from stating their explanations.
+17. The person poses a risk by impeding co-accused individuals
+
+TEST_END

@@ -1,0 +1,30 @@
+FACTS
+
+proceeding_danger(bruno, investigation)
+
+FACTS_END
+
+TEST
+
+1. The spread of information is essential for the investigation.
+2. Sharing information is crucial for the inquiry.
+3. For the investigation, distributing information is necessary.
+4. The investigation relies on the distribution of information.
+5. Information sharing is key to the investigation.
+6. To investigate, the flow of information is required.
+7. The inquiry necessitates the dissemination of information.
+8. Providing information is vital for the investigation.
+9. Information circulation is important for the investigation.
+10. The investigation demands the exchange of information.
+11. Spreading information is needed for the investigation.
+12. The investigation depends on information being shared.
+13. The inquiry requires the spread of information.
+14. Sharing data is indispensable for the investigation.
+15. The investigation calls for the dissemination of information.
+16. The distribution of information is pivotal for the investigation.
+17. For the inquiry, circulating information is necessary.
+18. Information exchange is fundamental to the investigation.
+19. The transmission of information is required for the investigation.
+20. The investigation requires information to be disseminated.
+
+TEST_END

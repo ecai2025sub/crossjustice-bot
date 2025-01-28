@@ -1,0 +1,30 @@
+FACTS
+
+person_danger(bruno, life)
+
+FACTS_END
+
+TEST
+
+1. It's essential to prevent harm to an individual's life.
+2. We must ensure a person's life remains unharmed.
+3. Protecting someone's life from damage is necessary.
+4. Avoiding any damage to a person's life is crucial.
+5. It's important to safeguard a person's life from harm.
+6. Ensuring a person's life is not damaged is vital.
+7. Preventing damage to an individual's life is imperative.
+8. It's crucial to keep a person's life free from harm.
+9. We should strive to protect a person's life from damage.
+10. Shielding a person's life from harm is necessary.
+11. Ensuring no harm comes to a person's life is essential.
+12. There's a need to preserve a person's life from damage.
+13. It's vital to prevent any harm to an individual's life.
+14. Keeping a person's life safe from damage is important.
+15. There's an obligation to avoid causing harm to a person's life.
+16. Protecting an individual's life from damage is crucial.
+17. We need to prevent any harm to a person's life.
+18. It's necessary to shield a person's life from damage.
+19. Avoiding harm to an individual's life is essential.
+20. We must ensure that a person's life is protected from damage.
+
+TEST_END

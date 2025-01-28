@@ -1,0 +1,30 @@
+FACTS
+
+person_document(bruno, challenge_arrest)
+
+FACTS_END
+
+TEST
+
+1. The issued document is required to contest the arrest.
+2. To dispute the arrest, the document provided is necessary.
+3. Challenging the arrest necessitates the issued document.
+4. The document released is essential to oppose the arrest.
+5. To question the arrest, the necessary document has been issued.
+6. The document in question is vital for contesting the arrest.
+7. To challenge the arrest, the required document has been issued.
+8. The necessary document for disputing the arrest has been issued.
+9. Contesting the arrest requires the document that was issued.
+10. The document needed to question the arrest has been issued.
+11. To oppose the arrest, the essential document is needed.
+12. The document required to challenge the arrest has been issued.
+13. The issued document is crucial for disputing the arrest.
+14. To contest the arrest, one needs the document that was issued.
+15. The document necessary for challenging the arrest has been issued.
+16. The document that was issued is required to dispute the arrest.
+17. To question the arrest, the essential document has been issued.
+18. The issued document is needed to oppose the arrest.
+19. The document required for questioning the arrest has been issued.
+20. To dispute the arrest, the issued document is necessary.
+
+TEST_END

@@ -1,0 +1,30 @@
+FACTS
+
+person_status(bruno, vulnerable)
+
+FACTS_END
+
+TEST
+
+1. bruno is currently vulnerable and needs special care or intervention.
+2. bruno is in a sensitive condition, necessitating extra attention or precautions.
+3. bruno requires special handling due to their vulnerable state.
+4. bruno is experiencing vulnerability and requires specific measures for support.
+5. bruno is in a delicate situation, needing particular attention and care.
+6. bruno is in a state that calls for special protective measures.
+7. bruno is vulnerable and demands careful attention and tailored measures.
+8. bruno requires special consideration due to their current vulnerable state.
+9. bruno is in a fragile condition, warranting special attention or actions.
+10. bruno needs special measures due to their vulnerable situation.
+11. bruno is in a precarious state, requiring focused care or intervention.
+12. bruno is vulnerable, necessitating specific attention and protective actions.
+13. bruno is in need of special care due to their current state of vulnerability.
+14. bruno is in a susceptible condition, calling for special attention and actions.
+15. bruno requires additional attention due to their vulnerable status.
+16. bruno is experiencing a vulnerable phase, needing special measures or care.
+17. bruno is in a fragile state, requiring dedicated attention or protection.
+18. bruno is in a vulnerable position, necessitating special care or intervention.
+19. bruno requires particular focus and measures due to their vulnerable condition.
+20. bruno is in a state that
+
+TEST_END
