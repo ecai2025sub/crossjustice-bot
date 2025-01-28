@@ -18,7 +18,7 @@ from swi_interface import query
 from argumentation.arg_interface import get_full_theory, run_reasoner
 
 
-def prompt_model(prompt, system="", model="llama3-70b-8192", temperature=0.3):
+def prompt_model(prompt, system="", model="llama3-70b-8192", temperature=0.0):
   client = Groq(
       api_key='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',
   )
@@ -164,7 +164,7 @@ def select_state(messages, context):
         Do not include anything else in your output.
 
         {messages[-2:]}
-    """, temperature=0.01)
+    """)
 
     print("Selecting State:")
     print(res)
@@ -252,7 +252,7 @@ def extract_facts(user_text, context):
     Here is the user input:
 
     {user_text}
-  """, temperature=0.3)
+  """)
 
   print(user_text)
   print()
@@ -290,7 +290,7 @@ def prettify_prolog(input):
       Why do You Have Them: inference steps and reasoning that led to the the rights. Use all the Prolog terms in the explanation explicitly referencing the original Prolog when needed.
 
       Use enumerations in the 'What Rights do You Have' and 'Why do You Have Them' sections if needed.
-    """, temperature=0.3)
+    """)
 
   for _, v in input.items():
     for _, r in v.items():
@@ -369,7 +369,7 @@ def main():
       st.session_state.memory = ConversationSummaryBufferMemory(llm=ChatGroq(
           groq_api_key='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',
           model_name="llama3-70b-8192",
-          temperature=0.3
+          temperature=0.5
       ), max_token_limit=2000, memory_key="my_chat", return_messages=True)
 
     dirs = ["directive_2010_64", "directive_2012_13", "directive_2016_343", "directive_2013_48"]
