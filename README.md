@@ -1,6 +1,10 @@
-# LeXBOT: a Generative - Symbolic Approach to Legislative eXplainability (submitted at ICAIL 2025)
+# LeXBOT: a Generative - Symbolic Approach to Legislative eXplainability (submitted to ICAIL 2025)
 
 This repository contains the support material for the paper *LeXBOT: a Generative - Symbolic Approach to Legislative eXplainability*.
+
+A running instance of the application is available at:  **[LexBot](https://crossjustice-bot.streamlit.app/)**  
+
+⚠ **Note**: This instance uses limited [Groq](https://groq.com/) API keys, so it may experience crashes or timeouts under high load.
 
 ## Repository Structure  
 
