@@ -14,9 +14,10 @@ This directory contains the code for the quantitative evaluation of Task 1.
   - Requires a valid [Together AI](https://www.together.ai/) API key to function properly.  
 
 ### `res/`  
-This directory stores evaluation results and datasets.
-- **Evaluation results**: JSON files containing results at different temperature settings (0.0, 0.3, 0.6, 0.9).  
-- **`extraction/`**: Contains the dataset used for testing, including both complex and single extraction scenarios.  
+This directory stores evaluation results and datasets.  
+- **`extraction/`**: Contains the dataset used for testing, including both complex and single extraction scenarios.
+- **`interaction/`**: Contains  a series of examples illustrating user interactions with the application.  
+- **`results_temp_*.json`**: JSON files containing results at different temperature settings (0.0, 0.3, 0.6, 0.9).
 
 ### `src/`  
 Contains the main source code.  
