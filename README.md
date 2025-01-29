@@ -17,7 +17,7 @@ This directory contains the code for the quantitative evaluation of Task 1.
 This directory stores evaluation results and datasets.  
 - **`extraction/`**: Contains the dataset used for testing, including both complex and single extraction scenarios.
 - **`interaction/`**: Contains  a series of examples illustrating user interactions with the application.  
-- **`results_temp_*.json`**: JSON files containing results at different temperature settings (0.0, 0.3, 0.6, 0.9).
+- **`results_temp_*.json`**: JSON files containing results of the extraction at different temperature settings (0.0, 0.3, 0.6, 0.9).
 
 ### `src/`  
 Contains the main source code.  
