@@ -6,3 +6,4 @@ streamlit==1.41.1
 pyswip==0.3.0
 mdextractor==0.0.3
 transformers==4.48.0
+pydantic==2.10.6
