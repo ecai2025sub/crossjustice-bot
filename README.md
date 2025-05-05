@@ -2,7 +2,7 @@
 
 This repository contains the support material for the paper *ALEXChat: a Generative - Symbolic Approach to Legal eXplainability*.
 
-A running instance of the application is available at:  **[ALEXChat](https://crossjustice-bot.streamlit.app/)**  
+A running instance of the application is available at:  **[ALEXChat](https://alexchat.streamlit.app/)**  
 
 ⚠ **Note**: This instance uses limited [Groq](https://groq.com/) API keys, so it may experience crashes or timeouts under high load.
 
