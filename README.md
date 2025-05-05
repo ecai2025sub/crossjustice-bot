@@ -37,7 +37,7 @@ Contains the main source code.
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/icail2025sub/crossjustice-bot.git
+   git clone https://github.com/ecai2025sub/crossjustice-bot.git
    cd crossjustice-bot
    ```  
 2. Install system dependencies (tested with Debian Bullseye):  
