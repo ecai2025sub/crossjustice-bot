@@ -1,4 +1,4 @@
-# ALEXChat: a Generative - Symbolic Approach to Legal eXplainability (submitted to ICAIL 2025)
+# ALEXChat: a Generative - Symbolic Approach to Legal eXplainability
 
 This repository contains the support material for the paper *ALEXChat: a Generative - Symbolic Approach to Legal eXplainability*.
 
