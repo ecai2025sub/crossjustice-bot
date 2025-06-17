@@ -12,10 +12,38 @@ from langchain_core.prompts import (
 from langchain_core.messages import SystemMessage
 from langchain.chains.conversation.memory import ConversationBufferWindowMemory, ConversationSummaryBufferMemory
 from langchain_groq import ChatGroq
+from together import Together
 
 import input_facts
 from swi_interface import query
 from argumentation.arg_interface import get_full_theory, run_reasoner
+
+
+def prompt_model_together(prompt, system="", model="meta-llama/Llama-3-70b-chat-hf", temperature=0.0):
+  client = Together(api_key="tgp_v1_AcKDLk5NiFP_qAhuiIFrtiOLllOipAxlXN4a_DYSSKM")
+  while True:
+    try:
+      response = client.chat.completions.create(
+          model=model,
+          messages=[
+            {
+                "role": "system",
+                "content": system
+            },
+            {
+                "role": "user",
+                "content": prompt
+            }
+          ],
+          max_tokens=None,
+          temperature=temperature,
+          top_p=1,
+          stop=None,
+          stream=True
+      )
+      return "".join([chunk.choices[0].delta.content or "" for chunk in response])
+    except:
+      time.sleep(3)
 
 
 def prompt_model(prompt, system="", model="llama3-70b-8192", temperature=0.0):
@@ -151,7 +179,7 @@ def select_prompt(context):
 
 
 def select_state(messages, context):
-    res = prompt_model(f"""
+    res = prompt_model_together(f"""
         In the context of a system assisting a user in building a comprehensive case description and providing info on the rights applicable to the case.
         According to the following input, what does the user want to do?
 
@@ -181,7 +209,7 @@ def run_argumentation(context):
       rules = [x["arg_rule"] for x in filter_target(context["rights"][facts_hash(context)], context)] + [x["arg_rule"] for x in filter_target(context["target"][target_hash(context)], context)]
       theory = get_full_theory("\n".join(rules), [context["country_target"]])
       context["arguments"][target_hash(context)] = run_reasoner(theory)
-      context["pretty_arguments"][target_hash(context)] = prompt_model(f"""
+      context["pretty_arguments"][target_hash(context)] = prompt_model_together(f"""
         Arguments on conformity with national implementations [{context["country_target"]}]:
 
         {context["arguments"][target_hash(context)]}
@@ -225,7 +253,7 @@ def extract_facts(user_text, context):
     blocks = extract_md_blocks(completion)
     return blocks[0] if blocks else ""
 
-  res = prompt_model(f"""
+  res = prompt_model_together(f"""
     Assist the user in building a comprehensive case description by extracting relevant Prolog facts.
 
     Consider if any of the following conditions may be relevant:
@@ -275,7 +303,7 @@ def add_facts(messages, context):
 
 def prettify_prolog(input):
   def _prettify(elem):
-    return prompt_model(f"""
+    return prompt_model_together(f"""
       Prolog Tree:
       {elem}
 
