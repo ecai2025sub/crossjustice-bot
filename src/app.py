@@ -363,6 +363,11 @@ def main():
     temp_model = st.sidebar.text_input("Enter the Groq Model:", GROQ_API_MODEL)
 
     reinit = temp_key != GROQ_API_KEY or temp_model != GROQ_API_MODEL
+
+    print(temp_key)
+    print(GROQ_API_KEY)
+    print(temp_model)
+    print(GROQ_API_MODEL)
     
     GROQ_API_KEY = temp_key
     GROQ_API_MODEL = temp_model
