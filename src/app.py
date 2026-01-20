@@ -415,11 +415,12 @@ def main():
       }
       st.session_state.chat_message = []
       # st.session_state.memory = ConversationBufferWindowMemory(k=3, memory_key="my_chat", return_messages=True)
-      st.session_state.memory = ConversationSummaryBufferMemory(llm=ChatGroq(
-          groq_api_key=GROQ_API_KEY,
-          model_name=GROQ_API_MODEL,
-          temperature=0.5
-      ), max_token_limit=2000, memory_key="my_chat", return_messages=True)
+      if GROQ_API_KEY:
+          st.session_state.memory = ConversationSummaryBufferMemory(llm=ChatGroq(
+              groq_api_key=GROQ_API_KEY,
+              model_name=GROQ_API_MODEL,
+              temperature=0.5
+          ), max_token_limit=2000, memory_key="my_chat", return_messages=True)
 
     for message in st.session_state.chat_message:
         with st.chat_message(message["role"]):
