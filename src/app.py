@@ -12,7 +12,6 @@ from langchain_core.prompts import (
 from langchain_core.messages import SystemMessage
 from langchain.chains.conversation.memory import ConversationBufferWindowMemory, ConversationSummaryBufferMemory
 from langchain_groq import ChatGroq
-from together import Together
 
 import input_facts
 from swi_interface import query
@@ -154,7 +153,7 @@ def select_prompt(context):
 
 
 def select_state(messages, context):
-    res = prompt_model_together(f"""
+    res = prompt_model(f"""
         In the context of a system assisting a user in building a comprehensive case description and providing info on the rights applicable to the case.
         According to the following input, what does the user want to do?
 
@@ -184,7 +183,7 @@ def run_argumentation(context):
       rules = [x["arg_rule"] for x in filter_target(context["rights"][facts_hash(context)], context)] + [x["arg_rule"] for x in filter_target(context["target"][target_hash(context)], context)]
       theory = get_full_theory("\n".join(rules), [context["country_target"]])
       context["arguments"][target_hash(context)] = run_reasoner(theory)
-      context["pretty_arguments"][target_hash(context)] = prompt_model_together(f"""
+      context["pretty_arguments"][target_hash(context)] = prompt_model(f"""
         Arguments on conformity with national implementations [{context["country_target"]}]:
 
         {context["arguments"][target_hash(context)]}
@@ -228,7 +227,7 @@ def extract_facts(user_text, context):
     blocks = extract_md_blocks(completion)
     return blocks[0] if blocks else ""
 
-  res = prompt_model_together(f"""
+  res = prompt_model(f"""
     Assist the user in building a comprehensive case description by extracting relevant Prolog facts.
 
     Consider if any of the following conditions may be relevant:
@@ -278,7 +277,7 @@ def add_facts(messages, context):
 
 def prettify_prolog(input):
   def _prettify(elem):
-    return prompt_model_together(f"""
+    return prompt_model(f"""
       Prolog Tree:
       {elem}
 
@@ -387,7 +386,7 @@ def main():
     temp_key = st.sidebar.text_input("Enter your Groq API Key:", type="password")
     GROQ_API_KEY = temp_key
 
-    temp_model = st.sidebar.text_input("Enter the Groq Model:", TOGETHER_API_MODEL)
+    temp_model = st.sidebar.text_input("Enter the Groq Model:", GROQ_API_MODEL)
     GROQ_API_MODEL = temp_model
     
     st.sidebar.markdown(f"""
