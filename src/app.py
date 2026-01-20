@@ -19,8 +19,6 @@ from argumentation.arg_interface import get_full_theory, run_reasoner
 
 GROQ_API_KEY = "placeholder"
 GROQ_API_MODEL = "llama-3.3-70b-versatile"
-INIT = True
-
 
 def prompt_model(prompt, system="", model="llama3-70b-8192", temperature=0.0):
   client = Groq(
@@ -354,7 +352,6 @@ def main():
 
     global GROQ_API_MODEL
     global GROQ_API_KEY
-    global INIT
 
     dirs = ["directive_2010_64", "directive_2012_13", "directive_2016_343", "directive_2013_48"]
     selected_dir = st.sidebar.selectbox('Choose from the list the relevant directives: Directive 2010/64 on right to interpretation and translation; 2012/13 on the right to information, 2016/343 on the presumption of innocence; 2013/48 on the right of access to a lawyer', dirs)
@@ -362,10 +359,9 @@ def main():
     laws = ["it", "nl", "bg", "pl"]
     selected_law = st.sidebar.selectbox('Choose the country where the proceedings are taking place, therefore the applicable national law:', laws)
     
-    temp_key = st.sidebar.text_input("Enter your Groq API Key:", type="password") if temp_key else GROQ_API_KEY
+    temp_key = st.sidebar.text_input("Enter your Groq API Key:", type="password")
     temp_model = st.sidebar.text_input("Enter the Groq Model:", GROQ_API_MODEL)
-
-    INIT = temp_model != GROQ_API_MODEL or temp_key != GROQ_API_KEY
+    
     GROQ_API_KEY = temp_key
     GROQ_API_MODEL = temp_model
     
@@ -401,7 +397,7 @@ def main():
     if not GROQ_API_KEY or not GROQ_API_MODEL:
         return
         
-    if "chat_message" not in st.session_state or INIT:
+    if "chat_message" not in st.session_state:
       st.session_state.context = {
         "state" : "1",
         "person_id" : "",
