@@ -18,16 +18,20 @@ import input_facts
 from swi_interface import query
 from argumentation.arg_interface import get_full_theory, run_reasoner
 
-TOGETHER_API_KEY = ""
-TOGETHER_API_MODEL = "meta-llama/Llama-3.3-70B-Instruct-Turbo"
+GROQ_API_KEY = ""
+GROQ_API_MODEL = "llama-3.3-70b-versatile"
 
-def prompt_model_together(prompt, system="", model="meta-llama/Llama-3-70b-chat-hf", temperature=0.0):
-  client = Together(api_key=TOGETHER_API_KEY)
+
+def prompt_model(prompt, system="", model="llama3-70b-8192", temperature=0.0):
+  client = Groq(
+      api_key=GROQ_API_KEY,
+  )
+
   while True:
     try:
-      response = client.chat.completions.create(
-          model=TOGETHER_API_MODEL,
-          messages=[
+      completion = client.chat.completions.create(
+        model=GROQ_API_MODEL,
+        messages=[
             {
                 "role": "system",
                 "content": system
@@ -36,17 +40,16 @@ def prompt_model_together(prompt, system="", model="meta-llama/Llama-3-70b-chat-
                 "role": "user",
                 "content": prompt
             }
-          ],
-          max_tokens=None,
-          temperature=temperature,
-          top_p=1,
-          stop=None,
-          stream=True
+        ],
+        temperature=temperature,
+        top_p=1,
+        stream=True,
+        stop=None,
       )
-      return "".join([chunk.choices[0].delta.content or "" for chunk in response])
-    except:
-      time.sleep(3)
 
+      return "".join([chunk.choices[0].delta.content or "" for chunk in completion])
+    except Exception as e:
+      time.sleep(3)
 
 def facts_hash(context):
   return hash(f"{context["facts"]}")
@@ -367,8 +370,8 @@ def main():
       st.session_state.chat_message = []
       # st.session_state.memory = ConversationBufferWindowMemory(k=3, memory_key="my_chat", return_messages=True)
       st.session_state.memory = ConversationSummaryBufferMemory(llm=ChatGroq(
-          groq_api_key='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',
-          model_name="llama3-70b-8192",
+          groq_api_key=GROQ_API_KEY,
+          model_name=GROQ_API_MODEL,
           temperature=0.5
       ), max_token_limit=2000, memory_key="my_chat", return_messages=True)
 
@@ -378,13 +381,13 @@ def main():
     laws = ["it", "nl", "bg", "pl"]
     selected_law = st.sidebar.selectbox('Choose the country where the proceedings are taking place, therefore the applicable national law:', laws)
 
-    temp_key = st.sidebar.text_input("Enter your TogetherAI API key:", type="password")
-    global TOGETHER_API_KEY
-    TOGETHER_API_KEY = temp_key
+    global GROQ_API_KEY
+    temp_key = st.sidebar.text_input("Enter your Groq API Key:", type="password")
+    GROQ_API_KEY = temp_key
 
-    global TOGETHER_API_MODEL
-    temp_model = st.sidebar.text_input("Enter the TogetherAI API Model:", TOGETHER_API_MODEL)
-    TOGETHER_API_MODEL = temp_model
+    global GROQ_API_MODEL
+    temp_model = st.sidebar.text_input("Enter the Groq Model:", TOGETHER_API_MODEL)
+    GROQ_API_MODEL = temp_model
     
     st.sidebar.markdown(f"""
       ## Welcome to the Tutorial
