@@ -17,7 +17,7 @@ import input_facts
 from swi_interface import query
 from argumentation.arg_interface import get_full_theory, run_reasoner
 
-GROQ_API_KEY = "placeholder"
+GROQ_API_KEY = ""
 GROQ_API_MODEL = "llama-3.3-70b-versatile"
 
 def prompt_model(prompt, system="", model="llama3-70b-8192", temperature=0.0):
@@ -358,19 +358,17 @@ def main():
 
     laws = ["it", "nl", "bg", "pl"]
     selected_law = st.sidebar.selectbox('Choose the country where the proceedings are taking place, therefore the applicable national law:', laws)
-    
-    temp_key = st.sidebar.text_input("Enter your Groq API Key:", type="password")
-    temp_model = st.sidebar.text_input("Enter the Groq Model:", GROQ_API_MODEL)
 
-    reinit = temp_key != GROQ_API_KEY or temp_model != GROQ_API_MODEL
-
-    print(temp_key)
-    print(GROQ_API_KEY)
-    print(temp_model)
-    print(GROQ_API_MODEL)
+    old_model = st.session_state.context["model"] if "context" in st.session_state else GROQ_API_MODEL
+    old_key = st.session_state.context["api_key"] if "context" in st.session_state else GROQ_API_KEY
     
-    GROQ_API_KEY = temp_key
-    GROQ_API_MODEL = temp_model
+    new_key = st.sidebar.text_input("Enter your Groq API Key:", old_key, type="password")
+    new_model = st.sidebar.text_input("Enter the Groq Model:", old_model)
+    
+    GROQ_API_KEY = new_key
+    GROQ_API_MODEL = new_model
+
+    reinit =  new_key != old_key or new_model != old_model
     
     st.sidebar.markdown(f"""
       ## Welcome to the Tutorial
@@ -417,7 +415,9 @@ def main():
         "target" : {},
         "arguments" : {},
         "pretty_arguments" : {},
-        "suggestions" : set()
+        "suggestions" : set(),
+        "model" : GROQ_API_MODEL,
+        "api_key" : GROQ_API_KEY
       }
       st.session_state.chat_message = []
       # st.session_state.memory = ConversationBufferWindowMemory(k=3, memory_key="my_chat", return_messages=True)
