@@ -18,7 +18,7 @@ import input_facts
 from swi_interface import query
 from argumentation.arg_interface import get_full_theory, run_reasoner
 
-GROQ_API_KEY = ""
+GROQ_API_KEY = "placeholder"
 GROQ_API_MODEL = "llama-3.3-70b-versatile"
 
 
