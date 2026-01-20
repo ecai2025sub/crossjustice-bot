@@ -361,6 +361,8 @@ def main():
     
     temp_key = st.sidebar.text_input("Enter your Groq API Key:", type="password")
     temp_model = st.sidebar.text_input("Enter the Groq Model:", GROQ_API_MODEL)
+
+    reinit = temp_key != GROQ_API_KEY or temp_model != GROQ_API_MODEL
     
     GROQ_API_KEY = temp_key
     GROQ_API_MODEL = temp_model
@@ -397,7 +399,7 @@ def main():
     if not GROQ_API_KEY or not GROQ_API_MODEL:
         return
         
-    if "chat_message" not in st.session_state:
+    if "chat_message" not in st.session_state or reinit:
       st.session_state.context = {
         "state" : "1",
         "person_id" : "",
