@@ -19,13 +19,14 @@ from swi_interface import query
 from argumentation.arg_interface import get_full_theory, run_reasoner
 
 TOGETHER_API_KEY = ""
+TOGETHER_API_MODEL = "meta-llama/Llama-3.3-70B-Instruct-Turbo"
 
 def prompt_model_together(prompt, system="", model="meta-llama/Llama-3-70b-chat-hf", temperature=0.0):
   client = Together(api_key=TOGETHER_API_KEY)
   while True:
     try:
       response = client.chat.completions.create(
-          model=model,
+          model=TOGETHER_API_MODEL,
           messages=[
             {
                 "role": "system",
@@ -380,6 +381,10 @@ def main():
     temp_key = st.sidebar.text_input("Enter your TogetherAI API key:", type="password")
     global TOGETHER_API_KEY
     TOGETHER_API_KEY = temp_key
+
+    global TOGETHER_API_MODEL
+    temp_model = st.sidebar.text_input("Enter the TogetherAI API Model:", TOGETHER_API_MODEL)
+    TOGETHER_API_MODEL = temp_model
     
     st.sidebar.markdown(f"""
       ## Welcome to the Tutorial
