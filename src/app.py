@@ -362,7 +362,7 @@ def main():
     laws = ["it", "nl", "bg", "pl"]
     selected_law = st.sidebar.selectbox('Choose the country where the proceedings are taking place, therefore the applicable national law:', laws)
     
-    temp_key = st.sidebar.text_input("Enter your Groq API Key:", type="password")
+    temp_key = st.sidebar.text_input("Enter your Groq API Key:", type="password") if temp_key else GROQ_API_KEY
     temp_model = st.sidebar.text_input("Enter the Groq Model:", GROQ_API_MODEL)
 
     INIT = temp_model != GROQ_API_MODEL or temp_key != GROQ_API_KEY
