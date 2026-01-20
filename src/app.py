@@ -380,9 +380,9 @@ def main():
 
     laws = ["it", "nl", "bg", "pl"]
     selected_law = st.sidebar.selectbox('Choose the country where the proceedings are taking place, therefore the applicable national law:', laws)
-
-    global GROQ_API_KEY
+    
     temp_key = st.sidebar.text_input("Enter your Groq API Key:", type="password")
+    global GROQ_API_KEY
     GROQ_API_KEY = temp_key
 
     global GROQ_API_MODEL
