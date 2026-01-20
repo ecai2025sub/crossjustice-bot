@@ -352,6 +352,9 @@ def llm_response(input_text, context, memory):
 
 def main():
 
+    global GROQ_API_MODEL
+    global GROQ_API_KEY
+
     if "chat_message" not in st.session_state:
       st.session_state.context = {
         "state" : "1",
@@ -382,10 +385,8 @@ def main():
     selected_law = st.sidebar.selectbox('Choose the country where the proceedings are taking place, therefore the applicable national law:', laws)
     
     temp_key = st.sidebar.text_input("Enter your Groq API Key:", type="password")
-    global GROQ_API_KEY
     GROQ_API_KEY = temp_key
 
-    global GROQ_API_MODEL
     temp_model = st.sidebar.text_input("Enter the Groq Model:", TOGETHER_API_MODEL)
     GROQ_API_MODEL = temp_model
     
