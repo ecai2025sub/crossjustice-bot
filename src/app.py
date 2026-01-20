@@ -19,6 +19,7 @@ from argumentation.arg_interface import get_full_theory, run_reasoner
 
 GROQ_API_KEY = "placeholder"
 GROQ_API_MODEL = "llama-3.3-70b-versatile"
+INIT = True
 
 
 def prompt_model(prompt, system="", model="llama3-70b-8192", temperature=0.0):
@@ -353,8 +354,9 @@ def main():
 
     global GROQ_API_MODEL
     global GROQ_API_KEY
+    global INIT
 
-    if "chat_message" not in st.session_state:
+    if "chat_message" not in st.session_state or INIT:
       st.session_state.context = {
         "state" : "1",
         "person_id" : "",
@@ -384,10 +386,12 @@ def main():
     selected_law = st.sidebar.selectbox('Choose the country where the proceedings are taking place, therefore the applicable national law:', laws)
     
     temp_key = st.sidebar.text_input("Enter your Groq API Key:", type="password")
-    GROQ_API_KEY = temp_key
-
     temp_model = st.sidebar.text_input("Enter the Groq Model:", GROQ_API_MODEL)
+    
+    GROQ_API_KEY = temp_key
     GROQ_API_MODEL = temp_model
+
+    INIT = temp_model != GROQ_API_MODEL or temp_key != GROQ_API_KEY
     
     st.sidebar.markdown(f"""
       ## Welcome to the Tutorial
