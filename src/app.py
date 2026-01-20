@@ -18,9 +18,10 @@ import input_facts
 from swi_interface import query
 from argumentation.arg_interface import get_full_theory, run_reasoner
 
+TOGETHER_API_KEY = ""
 
 def prompt_model_together(prompt, system="", model="meta-llama/Llama-3-70b-chat-hf", temperature=0.0):
-  client = Together(api_key="tgp_v1_AcKDLk5NiFP_qAhuiIFrtiOLllOipAxlXN4a_DYSSKM")
+  client = Together(api_key=TOGETHER_API_KEY)
   while True:
     try:
       response = client.chat.completions.create(
@@ -43,36 +44,6 @@ def prompt_model_together(prompt, system="", model="meta-llama/Llama-3-70b-chat-
       )
       return "".join([chunk.choices[0].delta.content or "" for chunk in response])
     except:
-      time.sleep(3)
-
-
-def prompt_model(prompt, system="", model="llama3-70b-8192", temperature=0.0):
-  client = Groq(
-      api_key='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',
-  )
-
-  while True:
-    try:
-      completion = client.chat.completions.create(
-        model=model,
-        messages=[
-            {
-                "role": "system",
-                "content": system
-            },
-            {
-                "role": "user",
-                "content": prompt
-            }
-        ],
-        temperature=temperature,
-        top_p=1,
-        stream=True,
-        stop=None,
-      )
-
-      return "".join([chunk.choices[0].delta.content or "" for chunk in completion])
-    except Exception as e:
       time.sleep(3)
 
 
@@ -406,6 +377,10 @@ def main():
     laws = ["it", "nl", "bg", "pl"]
     selected_law = st.sidebar.selectbox('Choose the country where the proceedings are taking place, therefore the applicable national law:', laws)
 
+    temp_key = st.sidebar.text_input("Enter your TogetherAI API key:", type="password")
+    global TOGETHER_API_KEY
+    TOGETHER_API_KEY = temp_key
+    
     st.sidebar.markdown(f"""
       ## Welcome to the Tutorial
 
