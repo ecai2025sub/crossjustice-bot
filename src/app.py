@@ -356,29 +356,6 @@ def main():
     global GROQ_API_KEY
     global INIT
 
-    if "chat_message" not in st.session_state or INIT:
-      st.session_state.context = {
-        "state" : "1",
-        "person_id" : "",
-        "directive_target" : "",
-        "facts" : [],
-        "rights" : {},
-        "country_target" : "",
-        "right_target" : "",
-        "opt_target" : "",
-        "target" : {},
-        "arguments" : {},
-        "pretty_arguments" : {},
-        "suggestions" : set()
-      }
-      st.session_state.chat_message = []
-      # st.session_state.memory = ConversationBufferWindowMemory(k=3, memory_key="my_chat", return_messages=True)
-      st.session_state.memory = ConversationSummaryBufferMemory(llm=ChatGroq(
-          groq_api_key=GROQ_API_KEY,
-          model_name=GROQ_API_MODEL,
-          temperature=0.5
-      ), max_token_limit=2000, memory_key="my_chat", return_messages=True)
-
     dirs = ["directive_2010_64", "directive_2012_13", "directive_2016_343", "directive_2013_48"]
     selected_dir = st.sidebar.selectbox('Choose from the list the relevant directives: Directive 2010/64 on right to interpretation and translation; 2012/13 on the right to information, 2016/343 on the presumption of innocence; 2013/48 on the right of access to a lawyer', dirs)
 
@@ -387,11 +364,10 @@ def main():
     
     temp_key = st.sidebar.text_input("Enter your Groq API Key:", type="password")
     temp_model = st.sidebar.text_input("Enter the Groq Model:", GROQ_API_MODEL)
-    
-    GROQ_API_KEY = temp_key
-    GROQ_API_MODEL = temp_model
 
     INIT = temp_model != GROQ_API_MODEL or temp_key != GROQ_API_KEY
+    GROQ_API_KEY = temp_key
+    GROQ_API_MODEL = temp_model
     
     st.sidebar.markdown(f"""
       ## Welcome to the Tutorial
@@ -421,6 +397,29 @@ def main():
 
       Providing clear, complete information ensures tailored and effective legal guidance.
     """)
+
+    if "chat_message" not in st.session_state or INIT:
+      st.session_state.context = {
+        "state" : "1",
+        "person_id" : "",
+        "directive_target" : "",
+        "facts" : [],
+        "rights" : {},
+        "country_target" : "",
+        "right_target" : "",
+        "opt_target" : "",
+        "target" : {},
+        "arguments" : {},
+        "pretty_arguments" : {},
+        "suggestions" : set()
+      }
+      st.session_state.chat_message = []
+      # st.session_state.memory = ConversationBufferWindowMemory(k=3, memory_key="my_chat", return_messages=True)
+      st.session_state.memory = ConversationSummaryBufferMemory(llm=ChatGroq(
+          groq_api_key=GROQ_API_KEY,
+          model_name=GROQ_API_MODEL,
+          temperature=0.5
+      ), max_token_limit=2000, memory_key="my_chat", return_messages=True)
 
     for message in st.session_state.chat_message:
         with st.chat_message(message["role"]):
